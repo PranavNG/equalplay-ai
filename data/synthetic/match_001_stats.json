@@ -1,0 +1,24 @@
+{
+  "HOME": {
+    "goals": 3,
+    "shots": 16,
+    "shots_on_target": 9,
+    "xg": 4.92,
+    "passes": 92,
+    "completed_passes": 92,
+    "events": 156,
+    "pass_accuracy": 100.0,
+    "event_share": 47.6
+  },
+  "AWAY": {
+    "goals": 3,
+    "shots": 11,
+    "shots_on_target": 5,
+    "xg": 3.44,
+    "passes": 102,
+    "completed_passes": 102,
+    "events": 172,
+    "pass_accuracy": 100.0,
+    "event_share": 52.4
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "match_id": "match_001",
+    "competition": "Synthetic Premier League",
+    "venue": "London City Stadium",
+    "teams": {
+        "HOME": {
+            "name": "London City FC",
+            "short_name": "LCF",
+            "primary_color": "#2877C7"
+        },
+        "AWAY": {
+            "name": "Manchester Royals",
+            "short_name": "MCR",
+            "primary_color": "#C44949"
+        }
+    }
+}
