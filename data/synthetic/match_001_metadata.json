@@ -1,17 +1,133 @@
 {
-    "match_id": "match_001",
-    "competition": "Synthetic Premier League",
-    "venue": "London City Stadium",
-    "teams": {
-        "HOME": {
-            "name": "London City FC",
-            "short_name": "LCF",
-            "primary_color": "#2877C7"
+  "match_id": "match_001",
+  "competition": "Synthetic Premier League",
+  "venue": "London City Stadium",
+  "teams": {
+    "HOME": {
+      "name": "Chelsea",
+      "short_name": "LCF",
+      "primary_color": "#2877C7",
+      "players": [
+        {
+          "player_id": "HOME_01",
+          "name": "Robert Sanchez",
+          "position": "GK"
         },
-        "AWAY": {
-            "name": "Manchester Royals",
-            "short_name": "MCR",
-            "primary_color": "#C44949"
+        {
+          "player_id": "HOME_02",
+          "name": "Reece James",
+          "position": "DF"
+        },
+        {
+          "player_id": "HOME_03",
+          "name": "Wesley Fofana",
+          "position": "DF"
+        },
+        {
+          "player_id": "HOME_04",
+          "name": "Levi Colwill",
+          "position": "DF"
+        },
+        {
+          "player_id": "HOME_05",
+          "name": "Marc Cucurella",
+          "position": "DF"
+        },
+        {
+          "player_id": "HOME_06",
+          "name": "Moises Caicedo",
+          "position": "MF"
+        },
+        {
+          "player_id": "HOME_07",
+          "name": "Enzo Fernandez",
+          "position": "MF"
+        },
+        {
+          "player_id": "HOME_08",
+          "name": "Cole Palmer",
+          "position": "FW"
+        },
+        {
+          "player_id": "HOME_09",
+          "name": "Pedro Neto",
+          "position": "FW"
+        },
+        {
+          "player_id": "HOME_10",
+          "name": "Nicolas Jackson",
+          "position": "FW"
+        },
+        {
+          "player_id": "HOME_11",
+          "name": "Noni Madueke",
+          "position": "FW"
         }
+      ]
+    },
+    "AWAY": {
+      "name": "Manchester City",
+      "short_name": "MCR",
+      "primary_color": "#C44949",
+      "players": [
+        {
+          "player_id": "AWAY_01",
+          "name": "Ederson",
+          "position": "GK"
+        },
+        {
+          "player_id": "AWAY_02",
+          "name": "Kyle Walker",
+          "position": "DF"
+        },
+        {
+          "player_id": "AWAY_03",
+          "name": "Ruben Dias",
+          "position": "DF"
+        },
+        {
+          "player_id": "AWAY_04",
+          "name": "Josko Gvardiol",
+          "position": "DF"
+        },
+        {
+          "player_id": "AWAY_05",
+          "name": "John Stones",
+          "position": "DF"
+        },
+        {
+          "player_id": "AWAY_06",
+          "name": "Rodri",
+          "position": "MF"
+        },
+        {
+          "player_id": "AWAY_07",
+          "name": "Bernardo Silva",
+          "position": "MF"
+        },
+        {
+          "player_id": "AWAY_08",
+          "name": "Phil Foden",
+          "position": "FW"
+        },
+        {
+          "player_id": "AWAY_09",
+          "name": "Erling Haaland",
+          "position": "FW"
+        },
+        {
+          "player_id": "AWAY_10",
+          "name": "Jeremy Doku",
+          "position": "FW"
+        },
+        {
+          "player_id": "AWAY_11",
+          "name": "Kevin De Bruyne",
+          "position": "MF"
+        }
+      ]
     }
+  },
+  "simulation": true,
+  "disclaimer": "Fictional match using real player names; not a real result."
 }

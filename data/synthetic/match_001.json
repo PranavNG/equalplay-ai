@@ -6,7 +6,7 @@
     "second": 15,
     "timestamp_seconds": 15,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "failed",
     "x": 73.65,
@@ -14,7 +14,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 1,
-    "card": null
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0002",
@@ -23,7 +24,7 @@
     "second": 17,
     "timestamp_seconds": 17,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 3.18,
@@ -31,7 +32,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 2,
-    "card": null
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0003",
@@ -40,7 +42,7 @@
     "second": 47,
     "timestamp_seconds": 47,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 19.88,
@@ -48,7 +50,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 2,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0004",
@@ -57,7 +60,7 @@
     "second": 0,
     "timestamp_seconds": 60,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 69.81,
@@ -65,7 +68,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 2,
-    "card": null
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0005",
@@ -74,7 +78,7 @@
     "second": 17,
     "timestamp_seconds": 77,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.35,
@@ -82,7 +86,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 3,
-    "card": null
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0006",
@@ -91,7 +96,7 @@
     "second": 37,
     "timestamp_seconds": 97,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_03",
     "event_type": "interception",
     "outcome": "successful",
     "x": 60.37,
@@ -99,7 +104,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 3,
-    "card": null
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0007",
@@ -116,7 +122,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 4,
-    "card": null
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0008",
@@ -125,7 +132,7 @@
     "second": 51,
     "timestamp_seconds": 111,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 86.17,
@@ -133,7 +140,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 4,
-    "card": null
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0009",
@@ -142,7 +150,7 @@
     "second": 55,
     "timestamp_seconds": 115,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "failed",
     "x": 77.31,
@@ -150,7 +158,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 4,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0010",
@@ -159,7 +168,7 @@
     "second": 10,
     "timestamp_seconds": 130,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "failed",
     "x": 20.95,
@@ -167,7 +176,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 5,
-    "card": null
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0011",
@@ -176,7 +186,7 @@
     "second": 17,
     "timestamp_seconds": 137,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.5,
@@ -184,7 +194,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 6,
-    "card": null
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0012",
@@ -193,7 +204,7 @@
     "second": 23,
     "timestamp_seconds": 143,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.95,
@@ -201,7 +212,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 6,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0013",
@@ -210,7 +222,7 @@
     "second": 29,
     "timestamp_seconds": 149,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 76.83,
@@ -218,7 +230,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 6,
-    "card": null
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0014",
@@ -227,7 +240,7 @@
     "second": 40,
     "timestamp_seconds": 160,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.62,
@@ -235,7 +248,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 7,
-    "card": null
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0015",
@@ -244,7 +258,7 @@
     "second": 53,
     "timestamp_seconds": 173,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 49.92,
@@ -252,7 +266,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 7,
-    "card": null
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0016",
@@ -261,7 +276,7 @@
     "second": 8,
     "timestamp_seconds": 188,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 58.46,
@@ -269,7 +284,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 7,
-    "card": null
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0017",
@@ -278,7 +294,7 @@
     "second": 15,
     "timestamp_seconds": 195,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_06",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 13.83,
@@ -286,7 +302,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 7,
-    "card": null
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0018",
@@ -295,7 +312,7 @@
     "second": 34,
     "timestamp_seconds": 214,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_06",
     "event_type": "interception",
     "outcome": "successful",
     "x": 15.28,
@@ -303,7 +320,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 7,
-    "card": null
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0019",
@@ -312,7 +330,7 @@
     "second": 35,
     "timestamp_seconds": 215,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "failed",
     "x": 6.35,
@@ -320,7 +338,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 8,
-    "card": null
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0020",
@@ -329,7 +348,7 @@
     "second": 47,
     "timestamp_seconds": 227,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 55.32,
@@ -337,7 +356,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 9,
-    "card": null
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0021",
@@ -346,7 +366,7 @@
     "second": 7,
     "timestamp_seconds": 247,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "failed",
     "x": 45.37,
@@ -354,7 +374,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 9,
-    "card": null
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0022",
@@ -363,7 +384,7 @@
     "second": 18,
     "timestamp_seconds": 258,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_06",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 76.2,
@@ -371,7 +392,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 10,
-    "card": null
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0023",
@@ -380,7 +402,7 @@
     "second": 21,
     "timestamp_seconds": 261,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_05",
     "event_type": "interception",
     "outcome": "successful",
     "x": 29.84,
@@ -388,7 +410,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 10,
-    "card": null
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0024",
@@ -397,7 +420,7 @@
     "second": 41,
     "timestamp_seconds": 281,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "failed",
     "x": 37.39,
@@ -405,7 +428,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 11,
-    "card": null
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0025",
@@ -414,7 +438,7 @@
     "second": 49,
     "timestamp_seconds": 289,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_09",
     "event_type": "foul",
     "outcome": "committed",
     "x": 59.89,
@@ -422,7 +446,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 12,
-    "card": "yellow"
+    "card": "yellow",
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0026",
@@ -431,7 +456,7 @@
     "second": 3,
     "timestamp_seconds": 303,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_07",
     "event_type": "foul",
     "outcome": "committed",
     "x": 8.57,
@@ -439,7 +464,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 12,
-    "card": "yellow"
+    "card": "yellow",
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0027",
@@ -448,7 +474,7 @@
     "second": 15,
     "timestamp_seconds": 315,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 47.53,
@@ -456,7 +482,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 12,
-    "card": null
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0028",
@@ -465,7 +492,7 @@
     "second": 36,
     "timestamp_seconds": 336,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 21.18,
@@ -473,7 +500,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 12,
-    "card": null
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0029",
@@ -482,7 +510,7 @@
     "second": 56,
     "timestamp_seconds": 356,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_08",
     "event_type": "shot",
     "outcome": "saved",
     "x": 80.46,
@@ -490,7 +518,8 @@
     "xg": 0.117,
     "possession_team": "AWAY",
     "possession_id": 12,
-    "card": null
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0030",
@@ -499,7 +528,7 @@
     "second": 1,
     "timestamp_seconds": 361,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 58.84,
@@ -507,7 +536,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0031",
@@ -516,7 +546,7 @@
     "second": 21,
     "timestamp_seconds": 381,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 90.54,
@@ -524,7 +554,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0032",
@@ -533,7 +564,7 @@
     "second": 37,
     "timestamp_seconds": 397,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 48.54,
@@ -541,7 +572,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0033",
@@ -550,7 +582,7 @@
     "second": 12,
     "timestamp_seconds": 432,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 65.9,
@@ -558,7 +590,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0034",
@@ -567,7 +600,7 @@
     "second": 15,
     "timestamp_seconds": 435,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.42,
@@ -575,7 +608,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0035",
@@ -584,7 +618,7 @@
     "second": 26,
     "timestamp_seconds": 446,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 10.93,
@@ -592,7 +626,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 13,
-    "card": null
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0036",
@@ -601,7 +636,7 @@
     "second": 30,
     "timestamp_seconds": 450,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 42.19,
@@ -609,7 +644,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 14,
-    "card": null
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0037",
@@ -618,7 +654,7 @@
     "second": 50,
     "timestamp_seconds": 470,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 86.13,
@@ -626,7 +662,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 14,
-    "card": null
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0038",
@@ -635,7 +672,7 @@
     "second": 51,
     "timestamp_seconds": 471,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 96.9,
@@ -643,7 +680,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 14,
-    "card": null
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0039",
@@ -652,7 +690,7 @@
     "second": 13,
     "timestamp_seconds": 493,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_06",
     "event_type": "interception",
     "outcome": "successful",
     "x": 90.24,
@@ -660,7 +698,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 15,
-    "card": null
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0040",
@@ -677,7 +716,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 16,
-    "card": null
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0041",
@@ -686,7 +726,7 @@
     "second": 30,
     "timestamp_seconds": 510,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 69.66,
@@ -694,7 +734,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 16,
-    "card": null
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0042",
@@ -703,7 +744,7 @@
     "second": 31,
     "timestamp_seconds": 511,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_09",
     "event_type": "shot",
     "outcome": "blocked",
     "x": 97.12,
@@ -711,7 +752,8 @@
     "xg": 0.477,
     "possession_team": "AWAY",
     "possession_id": 16,
-    "card": null
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0043",
@@ -720,7 +762,7 @@
     "second": 3,
     "timestamp_seconds": 543,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 85.27,
@@ -728,7 +770,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 17,
-    "card": null
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0044",
@@ -737,7 +780,7 @@
     "second": 30,
     "timestamp_seconds": 570,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "interception",
     "outcome": "successful",
     "x": 6.85,
@@ -745,7 +788,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 18,
-    "card": null
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0045",
@@ -754,7 +798,7 @@
     "second": 37,
     "timestamp_seconds": 577,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 94.16,
@@ -762,7 +806,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0046",
@@ -779,7 +824,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0047",
@@ -788,7 +834,7 @@
     "second": 37,
     "timestamp_seconds": 637,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 39.58,
@@ -796,7 +842,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0048",
@@ -805,7 +852,7 @@
     "second": 42,
     "timestamp_seconds": 642,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_07",
     "event_type": "foul",
     "outcome": "committed",
     "x": 93.57,
@@ -813,7 +860,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0049",
@@ -822,7 +870,7 @@
     "second": 4,
     "timestamp_seconds": 664,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 13.25,
@@ -830,7 +878,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0050",
@@ -839,7 +888,7 @@
     "second": 13,
     "timestamp_seconds": 673,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 15.77,
@@ -847,7 +896,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0051",
@@ -856,7 +906,7 @@
     "second": 34,
     "timestamp_seconds": 694,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_09",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 80.71,
@@ -864,7 +914,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0052",
@@ -873,7 +924,7 @@
     "second": 6,
     "timestamp_seconds": 726,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 88.97,
@@ -881,7 +932,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0053",
@@ -890,7 +942,7 @@
     "second": 8,
     "timestamp_seconds": 728,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 71.76,
@@ -898,7 +950,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0054",
@@ -915,7 +968,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0055",
@@ -924,7 +978,7 @@
     "second": 56,
     "timestamp_seconds": 776,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 27.67,
@@ -932,7 +986,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0056",
@@ -941,7 +996,7 @@
     "second": 59,
     "timestamp_seconds": 779,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_09",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 16.16,
@@ -949,24 +1004,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 19,
-    "card": null
-  },
-  {
-    "event_id": "evt_0057",
-    "match_id": "match_001",
-    "minute": 14,
-    "second": 4,
-    "timestamp_seconds": 784,
-    "team_id": "HOME",
-    "player_id": "HOME_05",
-    "event_type": "shot",
-    "outcome": "saved",
-    "x": 80.34,
-    "y": 53.15,
-    "xg": 0.215,
-    "possession_team": "HOME",
-    "possession_id": 19,
-    "card": null
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0058",
@@ -975,7 +1014,7 @@
     "second": 7,
     "timestamp_seconds": 787,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 93.31,
@@ -983,7 +1022,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 20,
-    "card": null
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0059",
@@ -992,7 +1032,7 @@
     "second": 56,
     "timestamp_seconds": 836,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 24.95,
@@ -1000,7 +1040,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 20,
-    "card": null
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0060",
@@ -1009,7 +1050,7 @@
     "second": 10,
     "timestamp_seconds": 850,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_10",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 81.08,
@@ -1017,7 +1058,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 20,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0061",
@@ -1034,7 +1076,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 20,
-    "card": null
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0062",
@@ -1043,7 +1086,7 @@
     "second": 55,
     "timestamp_seconds": 895,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_05",
     "event_type": "interception",
     "outcome": "successful",
     "x": 81.07,
@@ -1051,7 +1094,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 20,
-    "card": null
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0063",
@@ -1068,7 +1112,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0064",
@@ -1077,7 +1122,7 @@
     "second": 14,
     "timestamp_seconds": 914,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 66.0,
@@ -1085,7 +1130,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0065",
@@ -1094,7 +1140,7 @@
     "second": 19,
     "timestamp_seconds": 919,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_06",
     "event_type": "foul",
     "outcome": "committed",
     "x": 27.91,
@@ -1102,7 +1148,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0066",
@@ -1111,7 +1158,7 @@
     "second": 50,
     "timestamp_seconds": 950,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 2.76,
@@ -1119,7 +1166,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0067",
@@ -1128,7 +1176,7 @@
     "second": 52,
     "timestamp_seconds": 952,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_11",
     "event_type": "foul",
     "outcome": "committed",
     "x": 26.55,
@@ -1136,7 +1184,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0068",
@@ -1145,7 +1194,7 @@
     "second": 55,
     "timestamp_seconds": 955,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 98.42,
@@ -1153,7 +1202,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 21,
-    "card": null
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0069",
@@ -1162,7 +1212,7 @@
     "second": 0,
     "timestamp_seconds": 960,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 53.85,
@@ -1170,7 +1220,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 22,
-    "card": null
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0070",
@@ -1187,7 +1238,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 22,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0071",
@@ -1196,7 +1248,7 @@
     "second": 27,
     "timestamp_seconds": 987,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 84.8,
@@ -1204,7 +1256,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 23,
-    "card": null
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0072",
@@ -1213,7 +1266,7 @@
     "second": 33,
     "timestamp_seconds": 993,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 32.62,
@@ -1221,7 +1274,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 23,
-    "card": null
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0073",
@@ -1230,7 +1284,7 @@
     "second": 45,
     "timestamp_seconds": 1005,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "failed",
     "x": 94.04,
@@ -1238,7 +1292,8 @@
     "xg": null,
     "possession_team": "HOME",
     "possession_id": 23,
-    "card": null
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0074",
@@ -1247,7 +1302,7 @@
     "second": 0,
     "timestamp_seconds": 1020,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 42.99,
@@ -1255,7 +1310,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 24,
-    "card": null
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0075",
@@ -1264,7 +1320,7 @@
     "second": 19,
     "timestamp_seconds": 1039,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 67.56,
@@ -1272,7 +1328,8 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 24,
-    "card": null
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0076",
@@ -1281,7 +1338,7 @@
     "second": 25,
     "timestamp_seconds": 1045,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 28.38,
@@ -1289,7 +1346,26 @@
     "xg": null,
     "possession_team": "AWAY",
     "possession_id": 24,
-    "card": null
+    "card": null,
+    "player_name": "Jeremy Doku"
+  },
+  {
+    "event_id": "evt_0057",
+    "match_id": "match_001",
+    "minute": 18,
+    "second": 30,
+    "timestamp_seconds": 1050,
+    "team_id": "HOME",
+    "player_id": "HOME_08",
+    "event_type": "shot",
+    "outcome": "goal",
+    "x": 80.34,
+    "y": 53.15,
+    "xg": 0.215,
+    "possession_team": "HOME",
+    "possession_id": 25,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0077",
@@ -1298,15 +1374,16 @@
     "second": 35,
     "timestamp_seconds": 1055,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 75.11,
     "y": 67.28,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 24,
-    "card": null
+    "possession_id": 26,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0078",
@@ -1315,15 +1392,16 @@
     "second": 53,
     "timestamp_seconds": 1073,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_02",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 14.74,
     "y": 4.62,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 25,
-    "card": null
+    "possession_id": 27,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0079",
@@ -1332,15 +1410,16 @@
     "second": 26,
     "timestamp_seconds": 1106,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 19.44,
     "y": 69.64,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 26,
-    "card": null
+    "possession_id": 28,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0080",
@@ -1349,15 +1428,16 @@
     "second": 29,
     "timestamp_seconds": 1109,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "failed",
     "x": 68.76,
     "y": 89.27,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 26,
-    "card": null
+    "possession_id": 28,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0081",
@@ -1366,15 +1446,16 @@
     "second": 56,
     "timestamp_seconds": 1136,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 21.88,
     "y": 80.41,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 27,
-    "card": null
+    "possession_id": 29,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0082",
@@ -1383,15 +1464,16 @@
     "second": 3,
     "timestamp_seconds": 1143,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 46.46,
     "y": 53.11,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0083",
@@ -1407,8 +1489,9 @@
     "y": 61.27,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0084",
@@ -1417,15 +1500,16 @@
     "second": 15,
     "timestamp_seconds": 1155,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 90.69,
     "y": 44.59,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0085",
@@ -1434,15 +1518,16 @@
     "second": 29,
     "timestamp_seconds": 1169,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 75.18,
     "y": 83.99,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0086",
@@ -1451,15 +1536,16 @@
     "second": 35,
     "timestamp_seconds": 1175,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 23.92,
     "y": 43.99,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0087",
@@ -1468,15 +1554,16 @@
     "second": 54,
     "timestamp_seconds": 1194,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 31.97,
     "y": 54.02,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0088",
@@ -1485,15 +1572,16 @@
     "second": 4,
     "timestamp_seconds": 1204,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 54.26,
     "y": 41.58,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0089",
@@ -1502,15 +1590,16 @@
     "second": 9,
     "timestamp_seconds": 1209,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.98,
     "y": 94.61,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0090",
@@ -1519,15 +1608,16 @@
     "second": 13,
     "timestamp_seconds": 1213,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 0.59,
     "y": 35.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0091",
@@ -1543,8 +1633,9 @@
     "y": 79.99,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 28,
-    "card": null
+    "possession_id": 30,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0092",
@@ -1553,15 +1644,16 @@
     "second": 44,
     "timestamp_seconds": 1244,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.58,
     "y": 2.9,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 29,
-    "card": null
+    "possession_id": 31,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0093",
@@ -1570,15 +1662,16 @@
     "second": 45,
     "timestamp_seconds": 1245,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 72.42,
     "y": 84.05,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 29,
-    "card": null
+    "possession_id": 31,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0094",
@@ -1587,15 +1680,16 @@
     "second": 25,
     "timestamp_seconds": 1285,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 2.71,
     "y": 64.27,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 30,
-    "card": null
+    "possession_id": 32,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0095",
@@ -1604,15 +1698,16 @@
     "second": 37,
     "timestamp_seconds": 1297,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 26.02,
     "y": 32.74,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 30,
-    "card": null
+    "possession_id": 32,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0096",
@@ -1621,15 +1716,16 @@
     "second": 58,
     "timestamp_seconds": 1318,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 37.91,
     "y": 75.2,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 30,
-    "card": null
+    "possession_id": 32,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0097",
@@ -1638,15 +1734,16 @@
     "second": 1,
     "timestamp_seconds": 1321,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 99.99,
     "y": 35.0,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 31,
-    "card": null
+    "possession_id": 33,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0098",
@@ -1655,15 +1752,16 @@
     "second": 5,
     "timestamp_seconds": 1325,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "failed",
     "x": 3.1,
     "y": 24.73,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 31,
-    "card": null
+    "possession_id": 33,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0099",
@@ -1672,15 +1770,16 @@
     "second": 30,
     "timestamp_seconds": 1350,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 12.62,
     "y": 66.95,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 32,
-    "card": null
+    "possession_id": 34,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0100",
@@ -1689,15 +1788,16 @@
     "second": 47,
     "timestamp_seconds": 1367,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 25.62,
     "y": 36.89,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 32,
-    "card": null
+    "possession_id": 34,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0101",
@@ -1706,15 +1806,16 @@
     "second": 53,
     "timestamp_seconds": 1373,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_02",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 16.38,
     "y": 31.1,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 32,
-    "card": null
+    "possession_id": 34,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0102",
@@ -1730,8 +1831,9 @@
     "y": 39.67,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 33,
-    "card": null
+    "possession_id": 35,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0103",
@@ -1740,15 +1842,16 @@
     "second": 36,
     "timestamp_seconds": 1416,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 83.06,
     "y": 24.28,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 33,
-    "card": null
+    "possession_id": 35,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0104",
@@ -1757,15 +1860,16 @@
     "second": 59,
     "timestamp_seconds": 1439,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_07",
     "event_type": "interception",
     "outcome": "successful",
     "x": 60.04,
     "y": 12.11,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 33,
-    "card": null
+    "possession_id": 35,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0105",
@@ -1774,15 +1878,16 @@
     "second": 22,
     "timestamp_seconds": 1462,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.9,
     "y": 64.75,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 34,
-    "card": null
+    "possession_id": 36,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0106",
@@ -1791,15 +1896,16 @@
     "second": 27,
     "timestamp_seconds": 1467,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 10.55,
     "y": 96.08,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 34,
-    "card": null
+    "possession_id": 36,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0107",
@@ -1808,15 +1914,16 @@
     "second": 34,
     "timestamp_seconds": 1474,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_11",
     "event_type": "interception",
     "outcome": "successful",
     "x": 45.97,
     "y": 15.3,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 35,
-    "card": null
+    "possession_id": 37,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0108",
@@ -1825,15 +1932,16 @@
     "second": 34,
     "timestamp_seconds": 1534,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.56,
     "y": 73.1,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 36,
-    "card": null
+    "possession_id": 38,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0109",
@@ -1842,15 +1950,16 @@
     "second": 39,
     "timestamp_seconds": 1539,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 8.67,
     "y": 88.16,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 36,
-    "card": null
+    "possession_id": 38,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0110",
@@ -1859,15 +1968,16 @@
     "second": 49,
     "timestamp_seconds": 1549,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 56.98,
     "y": 66.82,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 37,
-    "card": null
+    "possession_id": 39,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0111",
@@ -1883,8 +1993,9 @@
     "y": 18.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0112",
@@ -1893,15 +2004,16 @@
     "second": 58,
     "timestamp_seconds": 1558,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 88.03,
     "y": 70.12,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0113",
@@ -1910,15 +2022,16 @@
     "second": 5,
     "timestamp_seconds": 1565,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 75.82,
     "y": 69.06,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0114",
@@ -1927,15 +2040,16 @@
     "second": 15,
     "timestamp_seconds": 1575,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 1.72,
     "y": 29.42,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0115",
@@ -1944,15 +2058,16 @@
     "second": 26,
     "timestamp_seconds": 1586,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 58.16,
     "y": 47.33,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0116",
@@ -1961,15 +2076,16 @@
     "second": 46,
     "timestamp_seconds": 1606,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_09",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 55.04,
     "y": 35.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0117",
@@ -1978,15 +2094,16 @@
     "second": 7,
     "timestamp_seconds": 1627,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 11.96,
     "y": 53.59,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0118",
@@ -1995,15 +2112,16 @@
     "second": 14,
     "timestamp_seconds": 1634,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 73.86,
     "y": 27.65,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0119",
@@ -2012,15 +2130,16 @@
     "second": 16,
     "timestamp_seconds": 1636,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.05,
     "y": 83.26,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0120",
@@ -2029,15 +2148,16 @@
     "second": 19,
     "timestamp_seconds": 1639,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 1.41,
     "y": 53.41,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0121",
@@ -2046,15 +2166,16 @@
     "second": 46,
     "timestamp_seconds": 1666,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "failed",
     "x": 69.74,
     "y": 12.63,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 38,
-    "card": null
+    "possession_id": 40,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0122",
@@ -2063,15 +2184,16 @@
     "second": 0,
     "timestamp_seconds": 1680,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 47.87,
     "y": 34.07,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 39,
-    "card": null
+    "possession_id": 41,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0123",
@@ -2080,15 +2202,16 @@
     "second": 36,
     "timestamp_seconds": 1716,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_03",
     "event_type": "foul",
     "outcome": "committed",
     "x": 47.77,
     "y": 82.21,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 40,
-    "card": null
+    "possession_id": 42,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0124",
@@ -2097,15 +2220,16 @@
     "second": 55,
     "timestamp_seconds": 1735,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 68.65,
     "y": 15.17,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 40,
-    "card": null
+    "possession_id": 42,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0125",
@@ -2114,15 +2238,16 @@
     "second": 7,
     "timestamp_seconds": 1747,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 60.63,
     "y": 79.07,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 40,
-    "card": null
+    "possession_id": 42,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0126",
@@ -2131,15 +2256,16 @@
     "second": 15,
     "timestamp_seconds": 1755,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 38.04,
     "y": 90.85,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 41,
-    "card": null
+    "possession_id": 43,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0127",
@@ -2148,15 +2274,16 @@
     "second": 35,
     "timestamp_seconds": 1775,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_06",
     "event_type": "interception",
     "outcome": "successful",
     "x": 99.0,
     "y": 30.54,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 42,
-    "card": null
+    "possession_id": 44,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0128",
@@ -2165,15 +2292,16 @@
     "second": 6,
     "timestamp_seconds": 1806,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_06",
     "event_type": "foul",
     "outcome": "committed",
     "x": 20.78,
     "y": 21.1,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 43,
-    "card": null
+    "possession_id": 45,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0129",
@@ -2182,15 +2310,16 @@
     "second": 39,
     "timestamp_seconds": 1839,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 55.2,
     "y": 15.65,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 43,
-    "card": null
+    "possession_id": 45,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0130",
@@ -2199,15 +2328,16 @@
     "second": 47,
     "timestamp_seconds": 1847,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 3.26,
     "y": 28.81,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 43,
-    "card": null
+    "possession_id": 45,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0131",
@@ -2216,15 +2346,16 @@
     "second": 14,
     "timestamp_seconds": 1874,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 79.12,
     "y": 58.98,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 43,
-    "card": null
+    "possession_id": 45,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0132",
@@ -2233,15 +2364,16 @@
     "second": 43,
     "timestamp_seconds": 1903,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 54.46,
     "y": 64.76,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 43,
-    "card": null
+    "possession_id": 45,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0133",
@@ -2250,15 +2382,16 @@
     "second": 59,
     "timestamp_seconds": 1919,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 16.59,
     "y": 30.76,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 44,
-    "card": null
+    "possession_id": 46,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0134",
@@ -2267,15 +2400,16 @@
     "second": 7,
     "timestamp_seconds": 1927,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_11",
     "event_type": "shot",
-    "outcome": "goal",
+    "outcome": "saved",
     "x": 83.83,
     "y": 24.83,
     "xg": 0.123,
     "possession_team": "AWAY",
-    "possession_id": 44,
-    "card": null
+    "possession_id": 46,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0135",
@@ -2284,15 +2418,16 @@
     "second": 19,
     "timestamp_seconds": 1939,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_08",
     "event_type": "shot",
     "outcome": "blocked",
     "x": 76.41,
     "y": 60.46,
     "xg": 0.155,
     "possession_team": "HOME",
-    "possession_id": 45,
-    "card": null
+    "possession_id": 47,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0136",
@@ -2301,15 +2436,16 @@
     "second": 28,
     "timestamp_seconds": 1948,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_09",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 67.23,
     "y": 26.95,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 46,
-    "card": null
+    "possession_id": 48,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0137",
@@ -2318,15 +2454,16 @@
     "second": 29,
     "timestamp_seconds": 1949,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 17.52,
     "y": 51.9,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 46,
-    "card": null
+    "possession_id": 48,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0138",
@@ -2335,15 +2472,16 @@
     "second": 44,
     "timestamp_seconds": 1964,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_03",
     "event_type": "foul",
     "outcome": "committed",
     "x": 18.15,
     "y": 58.53,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0139",
@@ -2352,15 +2490,16 @@
     "second": 22,
     "timestamp_seconds": 2002,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 67.01,
     "y": 85.77,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0140",
@@ -2376,8 +2515,9 @@
     "y": 81.36,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0141",
@@ -2386,15 +2526,16 @@
     "second": 30,
     "timestamp_seconds": 2010,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 25.24,
     "y": 11.59,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0142",
@@ -2403,15 +2544,16 @@
     "second": 34,
     "timestamp_seconds": 2074,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 5.42,
     "y": 51.84,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0143",
@@ -2420,15 +2562,16 @@
     "second": 42,
     "timestamp_seconds": 2082,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.0,
     "y": 20.36,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0144",
@@ -2437,15 +2580,16 @@
     "second": 55,
     "timestamp_seconds": 2095,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "failed",
     "x": 69.83,
     "y": 12.14,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 47,
-    "card": null
+    "possession_id": 49,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0145",
@@ -2461,8 +2605,9 @@
     "y": 22.47,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 48,
-    "card": null
+    "possession_id": 50,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0146",
@@ -2471,15 +2616,34 @@
     "second": 19,
     "timestamp_seconds": 2119,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 11.75,
     "y": 83.21,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 49,
-    "card": null
+    "possession_id": 51,
+    "card": null,
+    "player_name": "Pedro Neto"
+  },
+  {
+    "event_id": "evt_0154",
+    "match_id": "match_001",
+    "minute": 36,
+    "second": 30,
+    "timestamp_seconds": 2130,
+    "team_id": "AWAY",
+    "player_id": "AWAY_09",
+    "event_type": "shot",
+    "outcome": "goal",
+    "x": 88.58,
+    "y": 69.24,
+    "xg": 0.188,
+    "possession_team": "AWAY",
+    "possession_id": 52,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0147",
@@ -2488,15 +2652,16 @@
     "second": 35,
     "timestamp_seconds": 2135,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 27.34,
     "y": 83.47,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 49,
-    "card": null
+    "possession_id": 53,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0148",
@@ -2505,15 +2670,16 @@
     "second": 45,
     "timestamp_seconds": 2145,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 14.46,
     "y": 19.06,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 50,
-    "card": null
+    "possession_id": 54,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0149",
@@ -2522,15 +2688,16 @@
     "second": 17,
     "timestamp_seconds": 2177,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_02",
     "event_type": "interception",
     "outcome": "successful",
     "x": 33.99,
     "y": 78.77,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 50,
-    "card": null
+    "possession_id": 54,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0150",
@@ -2539,15 +2706,16 @@
     "second": 49,
     "timestamp_seconds": 2209,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 28.28,
     "y": 29.86,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 51,
-    "card": null
+    "possession_id": 55,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0151",
@@ -2556,15 +2724,16 @@
     "second": 50,
     "timestamp_seconds": 2210,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 65.99,
     "y": 86.53,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 52,
-    "card": null
+    "possession_id": 56,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0152",
@@ -2573,15 +2742,16 @@
     "second": 21,
     "timestamp_seconds": 2241,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 32.18,
     "y": 18.87,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 52,
-    "card": null
+    "possession_id": 56,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0153",
@@ -2590,32 +2760,16 @@
     "second": 24,
     "timestamp_seconds": 2244,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 85.6,
     "y": 41.08,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 52,
-    "card": null
-  },
-  {
-    "event_id": "evt_0154",
-    "match_id": "match_001",
-    "minute": 38,
-    "second": 34,
-    "timestamp_seconds": 2254,
-    "team_id": "AWAY",
-    "player_id": "AWAY_01",
-    "event_type": "shot",
-    "outcome": "off_target",
-    "x": 88.58,
-    "y": 69.24,
-    "xg": 0.188,
-    "possession_team": "AWAY",
-    "possession_id": 52,
-    "card": null
+    "possession_id": 56,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0155",
@@ -2624,15 +2778,16 @@
     "second": 35,
     "timestamp_seconds": 2255,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 96.54,
     "y": 33.2,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 53,
-    "card": null
+    "possession_id": 57,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0156",
@@ -2641,15 +2796,16 @@
     "second": 48,
     "timestamp_seconds": 2268,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 91.04,
     "y": 1.53,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 53,
-    "card": null
+    "possession_id": 57,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0157",
@@ -2658,15 +2814,16 @@
     "second": 4,
     "timestamp_seconds": 2284,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "failed",
     "x": 69.27,
     "y": 64.98,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 53,
-    "card": null
+    "possession_id": 57,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0158",
@@ -2675,15 +2832,16 @@
     "second": 16,
     "timestamp_seconds": 2296,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_04",
     "event_type": "interception",
     "outcome": "successful",
     "x": 38.0,
     "y": 31.67,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 54,
-    "card": null
+    "possession_id": 58,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0159",
@@ -2692,15 +2850,16 @@
     "second": 30,
     "timestamp_seconds": 2310,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_07",
     "event_type": "interception",
     "outcome": "successful",
     "x": 3.59,
     "y": 6.84,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 55,
-    "card": null
+    "possession_id": 59,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0160",
@@ -2709,15 +2868,16 @@
     "second": 50,
     "timestamp_seconds": 2330,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_11",
     "event_type": "shot",
     "outcome": "blocked",
     "x": 72.53,
     "y": 78.7,
     "xg": 0.072,
     "possession_team": "AWAY",
-    "possession_id": 56,
-    "card": null
+    "possession_id": 60,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0161",
@@ -2726,15 +2886,16 @@
     "second": 1,
     "timestamp_seconds": 2341,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 29.34,
     "y": 37.48,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 57,
-    "card": null
+    "possession_id": 61,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0162",
@@ -2743,15 +2904,16 @@
     "second": 2,
     "timestamp_seconds": 2342,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 41.21,
     "y": 68.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 58,
-    "card": null
+    "possession_id": 62,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0163",
@@ -2760,15 +2922,16 @@
     "second": 10,
     "timestamp_seconds": 2350,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 87.08,
     "y": 61.97,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 58,
-    "card": null
+    "possession_id": 62,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0164",
@@ -2777,15 +2940,16 @@
     "second": 19,
     "timestamp_seconds": 2359,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 46.11,
     "y": 25.4,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 58,
-    "card": null
+    "possession_id": 62,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0165",
@@ -2794,15 +2958,16 @@
     "second": 20,
     "timestamp_seconds": 2360,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_07",
     "event_type": "interception",
     "outcome": "successful",
     "x": 46.53,
     "y": 28.76,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 58,
-    "card": null
+    "possession_id": 62,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0166",
@@ -2818,8 +2983,9 @@
     "y": 34.56,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0167",
@@ -2828,15 +2994,16 @@
     "second": 12,
     "timestamp_seconds": 2412,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_10",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 85.33,
     "y": 10.67,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0168",
@@ -2845,15 +3012,16 @@
     "second": 16,
     "timestamp_seconds": 2416,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 57.48,
     "y": 99.27,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0169",
@@ -2862,15 +3030,16 @@
     "second": 19,
     "timestamp_seconds": 2419,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 0.81,
     "y": 86.51,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0170",
@@ -2879,15 +3048,16 @@
     "second": 29,
     "timestamp_seconds": 2429,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 74.52,
     "y": 83.28,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0171",
@@ -2896,15 +3066,16 @@
     "second": 44,
     "timestamp_seconds": 2444,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 35.23,
     "y": 63.66,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0172",
@@ -2913,15 +3084,16 @@
     "second": 54,
     "timestamp_seconds": 2454,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 76.75,
     "y": 68.09,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 59,
-    "card": null
+    "possession_id": 63,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0173",
@@ -2930,15 +3102,16 @@
     "second": 40,
     "timestamp_seconds": 2500,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 78.86,
     "y": 3.34,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 60,
-    "card": null
+    "possession_id": 64,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0174",
@@ -2947,15 +3120,16 @@
     "second": 41,
     "timestamp_seconds": 2501,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 29.51,
     "y": 74.75,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 60,
-    "card": null
+    "possession_id": 64,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0175",
@@ -2964,15 +3138,16 @@
     "second": 57,
     "timestamp_seconds": 2517,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 87.65,
     "y": 36.59,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 60,
-    "card": null
+    "possession_id": 64,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0176",
@@ -2981,15 +3156,16 @@
     "second": 10,
     "timestamp_seconds": 2530,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 96.74,
     "y": 29.51,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 61,
-    "card": null
+    "possession_id": 65,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0177",
@@ -2998,15 +3174,16 @@
     "second": 16,
     "timestamp_seconds": 2536,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 7.53,
     "y": 75.42,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 61,
-    "card": null
+    "possession_id": 65,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0178",
@@ -3015,15 +3192,16 @@
     "second": 52,
     "timestamp_seconds": 2572,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_06",
     "event_type": "shot",
     "outcome": "saved",
     "x": 92.53,
     "y": 41.95,
     "xg": 0.353,
     "possession_team": "HOME",
-    "possession_id": 61,
-    "card": null
+    "possession_id": 65,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0179",
@@ -3032,15 +3210,16 @@
     "second": 53,
     "timestamp_seconds": 2573,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 45.48,
     "y": 67.28,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 62,
-    "card": null
+    "possession_id": 66,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0180",
@@ -3049,15 +3228,16 @@
     "second": 58,
     "timestamp_seconds": 2578,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.85,
     "y": 37.15,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 62,
-    "card": null
+    "possession_id": 66,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0181",
@@ -3066,15 +3246,16 @@
     "second": 35,
     "timestamp_seconds": 2615,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 61.01,
     "y": 64.77,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 62,
-    "card": null
+    "possession_id": 66,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0182",
@@ -3083,15 +3264,16 @@
     "second": 39,
     "timestamp_seconds": 2619,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_06",
     "event_type": "interception",
     "outcome": "successful",
     "x": 30.22,
     "y": 40.83,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 62,
-    "card": null
+    "possession_id": 66,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0183",
@@ -3100,15 +3282,16 @@
     "second": 56,
     "timestamp_seconds": 2636,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 3.72,
     "y": 99.59,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 63,
-    "card": null
+    "possession_id": 67,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0184",
@@ -3117,15 +3300,16 @@
     "second": 23,
     "timestamp_seconds": 2663,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 69.65,
     "y": 54.02,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 63,
-    "card": null
+    "possession_id": 67,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0185",
@@ -3134,15 +3318,16 @@
     "second": 24,
     "timestamp_seconds": 2664,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_05",
     "event_type": "interception",
     "outcome": "successful",
     "x": 65.49,
     "y": 83.37,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 63,
-    "card": null
+    "possession_id": 67,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0186",
@@ -3158,8 +3343,9 @@
     "y": 3.27,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 64,
-    "card": null
+    "possession_id": 68,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0187",
@@ -3168,15 +3354,16 @@
     "second": 42,
     "timestamp_seconds": 2682,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 23.61,
     "y": 36.27,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 64,
-    "card": null
+    "possession_id": 68,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0188",
@@ -3185,15 +3372,16 @@
     "second": 3,
     "timestamp_seconds": 2703,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 82.42,
     "y": 9.17,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": "yellow"
+    "possession_id": 69,
+    "card": "yellow",
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0189",
@@ -3202,15 +3390,16 @@
     "second": 7,
     "timestamp_seconds": 2707,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 33.35,
     "y": 98.88,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": null
+    "possession_id": 69,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0190",
@@ -3219,15 +3408,16 @@
     "second": 12,
     "timestamp_seconds": 2712,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.52,
     "y": 20.72,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": null
+    "possession_id": 69,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0191",
@@ -3236,15 +3426,16 @@
     "second": 17,
     "timestamp_seconds": 2717,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 14.76,
     "y": 90.05,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": null
+    "possession_id": 69,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0192",
@@ -3253,15 +3444,16 @@
     "second": 25,
     "timestamp_seconds": 2725,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_06",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 54.02,
     "y": 79.85,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": null
+    "possession_id": 69,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0193",
@@ -3270,15 +3462,16 @@
     "second": 0,
     "timestamp_seconds": 2760,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 23.79,
     "y": 32.38,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 65,
-    "card": null
+    "possession_id": 69,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0194",
@@ -3287,15 +3480,16 @@
     "second": 8,
     "timestamp_seconds": 2768,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 12.68,
     "y": 42.1,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 66,
-    "card": null
+    "possession_id": 70,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0195",
@@ -3304,15 +3498,16 @@
     "second": 22,
     "timestamp_seconds": 2782,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 77.8,
     "y": 51.32,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 66,
-    "card": null
+    "possession_id": 70,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0196",
@@ -3321,15 +3516,16 @@
     "second": 2,
     "timestamp_seconds": 2822,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_04",
     "event_type": "interception",
     "outcome": "successful",
     "x": 65.89,
     "y": 30.16,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 66,
-    "card": null
+    "possession_id": 70,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0197",
@@ -3338,15 +3534,16 @@
     "second": 39,
     "timestamp_seconds": 2859,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_07",
     "event_type": "foul",
     "outcome": "committed",
     "x": 6.08,
     "y": 47.9,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 67,
-    "card": null
+    "possession_id": 71,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0198",
@@ -3355,15 +3552,16 @@
     "second": 46,
     "timestamp_seconds": 2866,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "failed",
     "x": 71.24,
     "y": 44.36,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 67,
-    "card": null
+    "possession_id": 71,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0199",
@@ -3372,15 +3570,16 @@
     "second": 50,
     "timestamp_seconds": 2870,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.57,
     "y": 27.5,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 68,
-    "card": null
+    "possession_id": 72,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0200",
@@ -3389,15 +3588,16 @@
     "second": 18,
     "timestamp_seconds": 2898,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.02,
     "y": 79.31,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 68,
-    "card": null
+    "possession_id": 72,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0201",
@@ -3406,15 +3606,16 @@
     "second": 24,
     "timestamp_seconds": 2904,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.9,
     "y": 72.08,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 68,
-    "card": null
+    "possession_id": 72,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0202",
@@ -3423,15 +3624,16 @@
     "second": 29,
     "timestamp_seconds": 2909,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_04",
     "event_type": "interception",
     "outcome": "successful",
     "x": 41.38,
     "y": 82.74,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 68,
-    "card": null
+    "possession_id": 72,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0203",
@@ -3447,8 +3649,9 @@
     "y": 42.68,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0204",
@@ -3457,15 +3660,16 @@
     "second": 38,
     "timestamp_seconds": 2918,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_09",
     "event_type": "foul",
     "outcome": "committed",
     "x": 68.68,
     "y": 47.43,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": "yellow"
+    "possession_id": 73,
+    "card": "yellow",
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0205",
@@ -3474,15 +3678,16 @@
     "second": 23,
     "timestamp_seconds": 2963,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.0,
     "y": 95.66,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0206",
@@ -3491,15 +3696,16 @@
     "second": 47,
     "timestamp_seconds": 2987,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 35.36,
     "y": 66.53,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0207",
@@ -3508,15 +3714,16 @@
     "second": 51,
     "timestamp_seconds": 2991,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_09",
     "event_type": "foul",
     "outcome": "committed",
     "x": 60.04,
     "y": 35.16,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0208",
@@ -3525,15 +3732,16 @@
     "second": 14,
     "timestamp_seconds": 3014,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 84.54,
     "y": 36.76,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0209",
@@ -3542,15 +3750,16 @@
     "second": 30,
     "timestamp_seconds": 3030,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 42.91,
     "y": 56.1,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0210",
@@ -3559,15 +3768,16 @@
     "second": 42,
     "timestamp_seconds": 3042,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 64.27,
     "y": 2.63,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 69,
-    "card": null
+    "possession_id": 73,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0211",
@@ -3576,15 +3786,16 @@
     "second": 54,
     "timestamp_seconds": 3054,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 27.33,
     "y": 76.24,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 70,
-    "card": null
+    "possession_id": 74,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0212",
@@ -3593,15 +3804,16 @@
     "second": 9,
     "timestamp_seconds": 3069,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 40.08,
     "y": 14.19,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0213",
@@ -3610,15 +3822,16 @@
     "second": 11,
     "timestamp_seconds": 3071,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 53.05,
     "y": 37.62,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0214",
@@ -3627,15 +3840,16 @@
     "second": 55,
     "timestamp_seconds": 3115,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 72.16,
     "y": 77.68,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0215",
@@ -3644,15 +3858,16 @@
     "second": 9,
     "timestamp_seconds": 3129,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 67.4,
     "y": 27.21,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0216",
@@ -3661,15 +3876,16 @@
     "second": 10,
     "timestamp_seconds": 3130,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 41.42,
     "y": 21.56,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0217",
@@ -3685,8 +3901,9 @@
     "y": 67.85,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0218",
@@ -3695,15 +3912,16 @@
     "second": 2,
     "timestamp_seconds": 3182,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 30.14,
     "y": 21.12,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0219",
@@ -3712,15 +3930,16 @@
     "second": 3,
     "timestamp_seconds": 3183,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 12.0,
     "y": 49.74,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0220",
@@ -3729,15 +3948,16 @@
     "second": 14,
     "timestamp_seconds": 3194,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 70.37,
     "y": 50.03,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 71,
-    "card": null
+    "possession_id": 75,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0221",
@@ -3746,15 +3966,16 @@
     "second": 25,
     "timestamp_seconds": 3205,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 86.18,
     "y": 4.23,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 72,
-    "card": null
+    "possession_id": 76,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0222",
@@ -3763,15 +3984,16 @@
     "second": 38,
     "timestamp_seconds": 3218,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_07",
     "event_type": "interception",
     "outcome": "successful",
     "x": 57.58,
     "y": 57.34,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 72,
-    "card": null
+    "possession_id": 76,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0223",
@@ -3780,15 +4002,16 @@
     "second": 1,
     "timestamp_seconds": 3241,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 61.81,
     "y": 83.2,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 73,
-    "card": null
+    "possession_id": 77,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0224",
@@ -3797,15 +4020,16 @@
     "second": 7,
     "timestamp_seconds": 3247,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 84.45,
     "y": 24.33,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0225",
@@ -3814,15 +4038,16 @@
     "second": 10,
     "timestamp_seconds": 3250,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 87.05,
     "y": 74.58,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0226",
@@ -3831,15 +4056,16 @@
     "second": 18,
     "timestamp_seconds": 3258,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.32,
     "y": 53.06,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0227",
@@ -3855,8 +4081,9 @@
     "y": 64.54,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0228",
@@ -3865,15 +4092,16 @@
     "second": 25,
     "timestamp_seconds": 3265,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 19.73,
     "y": 60.24,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0229",
@@ -3882,15 +4110,16 @@
     "second": 11,
     "timestamp_seconds": 3311,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 75.44,
     "y": 75.99,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0230",
@@ -3899,15 +4128,16 @@
     "second": 40,
     "timestamp_seconds": 3340,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "failed",
     "x": 98.65,
     "y": 32.32,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 74,
-    "card": null
+    "possession_id": 78,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0231",
@@ -3916,15 +4146,16 @@
     "second": 49,
     "timestamp_seconds": 3349,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.83,
     "y": 44.22,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 75,
-    "card": null
+    "possession_id": 79,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0232",
@@ -3940,8 +4171,9 @@
     "y": 5.69,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 75,
-    "card": null
+    "possession_id": 79,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0233",
@@ -3950,15 +4182,34 @@
     "second": 22,
     "timestamp_seconds": 3382,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 97.74,
     "y": 9.03,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 76,
-    "card": null
+    "possession_id": 80,
+    "card": null,
+    "player_name": "Erling Haaland"
+  },
+  {
+    "event_id": "evt_0240",
+    "match_id": "match_001",
+    "minute": 57,
+    "second": 30,
+    "timestamp_seconds": 3390,
+    "team_id": "AWAY",
+    "player_id": "AWAY_08",
+    "event_type": "shot",
+    "outcome": "goal",
+    "x": 94.45,
+    "y": 40.0,
+    "xg": 0.344,
+    "possession_team": "AWAY",
+    "possession_id": 80,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0234",
@@ -3967,15 +4218,16 @@
     "second": 32,
     "timestamp_seconds": 3392,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "failed",
     "x": 55.43,
     "y": 79.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 76,
-    "card": null
+    "possession_id": 80,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0235",
@@ -3984,15 +4236,16 @@
     "second": 20,
     "timestamp_seconds": 3440,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 6.19,
     "y": 10.35,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 77,
-    "card": null
+    "possession_id": 81,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0236",
@@ -4001,15 +4254,16 @@
     "second": 30,
     "timestamp_seconds": 3450,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_11",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 8.43,
     "y": 64.61,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 78,
-    "card": null
+    "possession_id": 82,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0237",
@@ -4018,15 +4272,16 @@
     "second": 32,
     "timestamp_seconds": 3452,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.78,
     "y": 43.94,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 78,
-    "card": null
+    "possession_id": 82,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0238",
@@ -4035,15 +4290,16 @@
     "second": 38,
     "timestamp_seconds": 3458,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 91.79,
     "y": 38.74,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 78,
-    "card": null
+    "possession_id": 82,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0239",
@@ -4052,32 +4308,16 @@
     "second": 40,
     "timestamp_seconds": 3520,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 32.97,
     "y": 55.8,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 78,
-    "card": null
-  },
-  {
-    "event_id": "evt_0240",
-    "match_id": "match_001",
-    "minute": 59,
-    "second": 41,
-    "timestamp_seconds": 3521,
-    "team_id": "AWAY",
-    "player_id": "AWAY_06",
-    "event_type": "shot",
-    "outcome": "saved",
-    "x": 94.45,
-    "y": 40.0,
-    "xg": 0.344,
-    "possession_team": "AWAY",
-    "possession_id": 78,
-    "card": null
+    "possession_id": 82,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0241",
@@ -4086,15 +4326,16 @@
     "second": 50,
     "timestamp_seconds": 3530,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 65.61,
     "y": 66.21,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 79,
-    "card": null
+    "possession_id": 83,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0242",
@@ -4110,8 +4351,9 @@
     "y": 82.9,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 79,
-    "card": null
+    "possession_id": 83,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0243",
@@ -4120,15 +4362,16 @@
     "second": 24,
     "timestamp_seconds": 3564,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 9.35,
     "y": 67.05,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 80,
-    "card": null
+    "possession_id": 84,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0244",
@@ -4137,15 +4380,16 @@
     "second": 35,
     "timestamp_seconds": 3575,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 18.03,
     "y": 21.42,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 80,
-    "card": null
+    "possession_id": 84,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0245",
@@ -4154,15 +4398,16 @@
     "second": 41,
     "timestamp_seconds": 3581,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 100.0,
     "y": 15.49,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 81,
-    "card": null
+    "possession_id": 85,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0246",
@@ -4171,15 +4416,16 @@
     "second": 50,
     "timestamp_seconds": 3590,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 53.98,
     "y": 73.86,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 81,
-    "card": null
+    "possession_id": 85,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0247",
@@ -4188,15 +4434,16 @@
     "second": 8,
     "timestamp_seconds": 3608,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 16.22,
     "y": 83.13,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 81,
-    "card": null
+    "possession_id": 85,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0248",
@@ -4212,8 +4459,9 @@
     "y": 78.18,
     "xg": 0.124,
     "possession_team": "HOME",
-    "possession_id": 81,
-    "card": null
+    "possession_id": 85,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0249",
@@ -4222,15 +4470,16 @@
     "second": 39,
     "timestamp_seconds": 3639,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 23.92,
     "y": 96.56,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 82,
-    "card": null
+    "possession_id": 86,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0250",
@@ -4239,15 +4488,16 @@
     "second": 49,
     "timestamp_seconds": 3649,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 94.71,
     "y": 98.44,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 82,
-    "card": null
+    "possession_id": 86,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0251",
@@ -4256,15 +4506,16 @@
     "second": 56,
     "timestamp_seconds": 3656,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_05",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 50.29,
     "y": 41.87,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 82,
-    "card": null
+    "possession_id": 86,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0252",
@@ -4273,15 +4524,16 @@
     "second": 8,
     "timestamp_seconds": 3668,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 64.12,
     "y": 87.41,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 83,
-    "card": null
+    "possession_id": 87,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0253",
@@ -4290,15 +4542,16 @@
     "second": 38,
     "timestamp_seconds": 3698,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_09",
     "event_type": "shot",
     "outcome": "blocked",
     "x": 72.35,
     "y": 29.62,
     "xg": 0.096,
     "possession_team": "HOME",
-    "possession_id": 83,
-    "card": null
+    "possession_id": 87,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0254",
@@ -4307,15 +4560,16 @@
     "second": 51,
     "timestamp_seconds": 3711,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 9.17,
     "y": 91.05,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 84,
-    "card": null
+    "possession_id": 88,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0255",
@@ -4324,15 +4578,16 @@
     "second": 55,
     "timestamp_seconds": 3715,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_03",
     "event_type": "interception",
     "outcome": "successful",
     "x": 93.05,
     "y": 41.49,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 85,
-    "card": null
+    "possession_id": 89,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0256",
@@ -4341,15 +4596,16 @@
     "second": 5,
     "timestamp_seconds": 3725,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 93.08,
     "y": 83.92,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 86,
-    "card": null
+    "possession_id": 90,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0257",
@@ -4358,15 +4614,16 @@
     "second": 14,
     "timestamp_seconds": 3734,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 28.69,
     "y": 82.98,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 86,
-    "card": null
+    "possession_id": 90,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0258",
@@ -4375,15 +4632,16 @@
     "second": 15,
     "timestamp_seconds": 3735,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 46.91,
     "y": 61.53,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 86,
-    "card": null
+    "possession_id": 90,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0259",
@@ -4392,15 +4650,16 @@
     "second": 23,
     "timestamp_seconds": 3743,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "failed",
     "x": 21.57,
     "y": 14.95,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 87,
-    "card": null
+    "possession_id": 91,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0260",
@@ -4409,15 +4668,16 @@
     "second": 24,
     "timestamp_seconds": 3744,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 11.12,
     "y": 28.81,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0261",
@@ -4426,15 +4686,16 @@
     "second": 26,
     "timestamp_seconds": 3806,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 11.09,
     "y": 90.51,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0262",
@@ -4443,15 +4704,16 @@
     "second": 39,
     "timestamp_seconds": 3819,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 57.5,
     "y": 71.85,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0263",
@@ -4460,15 +4722,16 @@
     "second": 40,
     "timestamp_seconds": 3820,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 24.06,
     "y": 41.66,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0264",
@@ -4477,15 +4740,16 @@
     "second": 50,
     "timestamp_seconds": 3830,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 36.06,
     "y": 95.34,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0265",
@@ -4494,15 +4758,16 @@
     "second": 24,
     "timestamp_seconds": 3864,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 38.69,
     "y": 37.33,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0266",
@@ -4511,15 +4776,16 @@
     "second": 30,
     "timestamp_seconds": 3870,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 34.48,
     "y": 73.29,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 88,
-    "card": null
+    "possession_id": 92,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0267",
@@ -4528,15 +4794,16 @@
     "second": 55,
     "timestamp_seconds": 3895,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 58.19,
     "y": 75.67,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 89,
-    "card": null
+    "possession_id": 93,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0268",
@@ -4545,15 +4812,16 @@
     "second": 11,
     "timestamp_seconds": 3911,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_09",
     "event_type": "shot",
     "outcome": "off_target",
     "x": 75.1,
     "y": 28.09,
     "xg": 0.103,
     "possession_team": "HOME",
-    "possession_id": 89,
-    "card": null
+    "possession_id": 93,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0269",
@@ -4562,15 +4830,16 @@
     "second": 41,
     "timestamp_seconds": 3941,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 4.38,
     "y": 19.95,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 90,
-    "card": null
+    "possession_id": 94,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0270",
@@ -4579,15 +4848,16 @@
     "second": 49,
     "timestamp_seconds": 3949,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.91,
     "y": 54.3,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 90,
-    "card": null
+    "possession_id": 94,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0271",
@@ -4596,15 +4866,16 @@
     "second": 52,
     "timestamp_seconds": 3952,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_10",
     "event_type": "pass",
     "outcome": "failed",
     "x": 35.7,
     "y": 78.08,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 90,
-    "card": null
+    "possession_id": 94,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0272",
@@ -4613,15 +4884,16 @@
     "second": 53,
     "timestamp_seconds": 3953,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 79.93,
     "y": 43.7,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0273",
@@ -4630,15 +4902,16 @@
     "second": 11,
     "timestamp_seconds": 3971,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_03",
     "event_type": "foul",
     "outcome": "committed",
     "x": 51.93,
     "y": 80.11,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0274",
@@ -4647,15 +4920,16 @@
     "second": 21,
     "timestamp_seconds": 3981,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 99.51,
     "y": 18.05,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0275",
@@ -4664,15 +4938,16 @@
     "second": 23,
     "timestamp_seconds": 3983,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 66.09,
     "y": 30.65,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0276",
@@ -4681,15 +4956,16 @@
     "second": 31,
     "timestamp_seconds": 3991,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 44.39,
     "y": 44.71,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0277",
@@ -4698,15 +4974,16 @@
     "second": 44,
     "timestamp_seconds": 4004,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.49,
     "y": 63.95,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0278",
@@ -4715,15 +4992,16 @@
     "second": 57,
     "timestamp_seconds": 4017,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.75,
     "y": 36.33,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0279",
@@ -4732,15 +5010,16 @@
     "second": 1,
     "timestamp_seconds": 4021,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 43.82,
     "y": 12.62,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0280",
@@ -4749,15 +5028,16 @@
     "second": 9,
     "timestamp_seconds": 4029,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 38.29,
     "y": 56.72,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0281",
@@ -4766,15 +5046,16 @@
     "second": 38,
     "timestamp_seconds": 4058,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 37.1,
     "y": 44.39,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0282",
@@ -4783,15 +5064,16 @@
     "second": 54,
     "timestamp_seconds": 4074,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 39.8,
     "y": 64.96,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0283",
@@ -4800,15 +5082,16 @@
     "second": 11,
     "timestamp_seconds": 4091,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 91.35,
     "y": 11.78,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0284",
@@ -4817,15 +5100,16 @@
     "second": 31,
     "timestamp_seconds": 4111,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "failed",
     "x": 61.19,
     "y": 69.4,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 91,
-    "card": null
+    "possession_id": 95,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0285",
@@ -4834,15 +5118,16 @@
     "second": 47,
     "timestamp_seconds": 4127,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 85.28,
     "y": 45.2,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 92,
-    "card": null
+    "possession_id": 96,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0286",
@@ -4851,15 +5136,16 @@
     "second": 43,
     "timestamp_seconds": 4183,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_08",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 66.78,
     "y": 70.95,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 93,
-    "card": null
+    "possession_id": 97,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0287",
@@ -4868,15 +5154,16 @@
     "second": 51,
     "timestamp_seconds": 4191,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 89.13,
     "y": 85.14,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 93,
-    "card": null
+    "possession_id": 97,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0288",
@@ -4885,15 +5172,16 @@
     "second": 54,
     "timestamp_seconds": 4194,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 36.15,
     "y": 22.42,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 93,
-    "card": null
+    "possession_id": 97,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0289",
@@ -4909,8 +5197,9 @@
     "y": 80.37,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 94,
-    "card": null
+    "possession_id": 98,
+    "card": null,
+    "player_name": "Jeremy Doku"
   },
   {
     "event_id": "evt_0290",
@@ -4919,15 +5208,16 @@
     "second": 23,
     "timestamp_seconds": 4223,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_03",
     "event_type": "interception",
     "outcome": "successful",
     "x": 6.57,
     "y": 39.82,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 94,
-    "card": null
+    "possession_id": 98,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0291",
@@ -4936,15 +5226,16 @@
     "second": 31,
     "timestamp_seconds": 4231,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.92,
     "y": 82.33,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 95,
-    "card": null
+    "possession_id": 99,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0292",
@@ -4953,15 +5244,16 @@
     "second": 50,
     "timestamp_seconds": 4250,
     "team_id": "HOME",
-    "player_id": "HOME_09",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 45.0,
     "y": 68.01,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 95,
-    "card": null
+    "possession_id": 99,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0293",
@@ -4977,8 +5269,9 @@
     "y": 12.42,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 95,
-    "card": "yellow"
+    "possession_id": 99,
+    "card": "yellow",
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0294",
@@ -4987,15 +5280,34 @@
     "second": 27,
     "timestamp_seconds": 4287,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_10",
     "event_type": "foul",
     "outcome": "committed",
     "x": 22.55,
     "y": 94.75,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 95,
-    "card": null
+    "possession_id": 99,
+    "card": null,
+    "player_name": "Jeremy Doku"
+  },
+  {
+    "event_id": "evt_0315",
+    "match_id": "match_001",
+    "minute": 72,
+    "second": 30,
+    "timestamp_seconds": 4290,
+    "team_id": "HOME",
+    "player_id": "HOME_08",
+    "event_type": "shot",
+    "outcome": "goal",
+    "x": 74.17,
+    "y": 73.59,
+    "xg": 0.093,
+    "possession_team": "HOME",
+    "possession_id": 99,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0295",
@@ -5004,15 +5316,16 @@
     "second": 32,
     "timestamp_seconds": 4292,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_11",
     "event_type": "interception",
     "outcome": "successful",
     "x": 25.06,
     "y": 63.51,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 95,
-    "card": null
+    "possession_id": 99,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0296",
@@ -5028,8 +5341,9 @@
     "y": 61.44,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 96,
-    "card": null
+    "possession_id": 100,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0297",
@@ -5038,15 +5352,16 @@
     "second": 9,
     "timestamp_seconds": 4329,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "failed",
     "x": 90.2,
     "y": 33.76,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 96,
-    "card": null
+    "possession_id": 100,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0298",
@@ -5055,15 +5370,16 @@
     "second": 10,
     "timestamp_seconds": 4330,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_06",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 2.84,
     "y": 4.55,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 97,
-    "card": null
+    "possession_id": 101,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0299",
@@ -5072,15 +5388,16 @@
     "second": 37,
     "timestamp_seconds": 4357,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 26.47,
     "y": 21.08,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 98,
-    "card": null
+    "possession_id": 102,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0300",
@@ -5089,15 +5406,16 @@
     "second": 42,
     "timestamp_seconds": 4362,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.9,
     "y": 49.8,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 99,
-    "card": null
+    "possession_id": 103,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0301",
@@ -5106,15 +5424,16 @@
     "second": 15,
     "timestamp_seconds": 4395,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 7.3,
     "y": 5.99,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 99,
-    "card": null
+    "possession_id": 103,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0302",
@@ -5123,15 +5442,16 @@
     "second": 25,
     "timestamp_seconds": 4405,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "failed",
     "x": 34.02,
     "y": 14.37,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 99,
-    "card": null
+    "possession_id": 103,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0303",
@@ -5140,15 +5460,16 @@
     "second": 30,
     "timestamp_seconds": 4410,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_07",
     "event_type": "shot",
     "outcome": "off_target",
     "x": 73.66,
     "y": 42.23,
     "xg": 0.141,
     "possession_team": "AWAY",
-    "possession_id": 100,
-    "card": null
+    "possession_id": 104,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0304",
@@ -5157,15 +5478,16 @@
     "second": 43,
     "timestamp_seconds": 4423,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 26.75,
     "y": 24.79,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 101,
-    "card": null
+    "possession_id": 105,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0305",
@@ -5174,15 +5496,16 @@
     "second": 51,
     "timestamp_seconds": 4431,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_06",
     "event_type": "foul",
     "outcome": "committed",
     "x": 86.42,
     "y": 41.81,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 101,
-    "card": null
+    "possession_id": 105,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0306",
@@ -5191,15 +5514,16 @@
     "second": 12,
     "timestamp_seconds": 4452,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_02",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 49.83,
     "y": 51.47,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 101,
-    "card": null
+    "possession_id": 105,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0307",
@@ -5208,15 +5532,16 @@
     "second": 20,
     "timestamp_seconds": 4460,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_05",
     "event_type": "interception",
     "outcome": "successful",
     "x": 49.74,
     "y": 9.0,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 102,
-    "card": null
+    "possession_id": 106,
+    "card": null,
+    "player_name": "Marc Cucurella"
   },
   {
     "event_id": "evt_0308",
@@ -5225,15 +5550,16 @@
     "second": 36,
     "timestamp_seconds": 4476,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 96.67,
     "y": 21.51,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 103,
-    "card": null
+    "possession_id": 107,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0309",
@@ -5242,15 +5568,16 @@
     "second": 46,
     "timestamp_seconds": 4486,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 59.75,
     "y": 84.28,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 103,
-    "card": null
+    "possession_id": 107,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0310",
@@ -5259,15 +5586,16 @@
     "second": 59,
     "timestamp_seconds": 4499,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_02",
     "event_type": "pass",
     "outcome": "failed",
     "x": 84.72,
     "y": 43.09,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 103,
-    "card": null
+    "possession_id": 107,
+    "card": null,
+    "player_name": "Reece James"
   },
   {
     "event_id": "evt_0311",
@@ -5276,15 +5604,16 @@
     "second": 2,
     "timestamp_seconds": 4502,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 55.32,
     "y": 7.35,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 104,
-    "card": null
+    "possession_id": 108,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0312",
@@ -5293,15 +5622,16 @@
     "second": 3,
     "timestamp_seconds": 4503,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_04",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.91,
     "y": 68.04,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 104,
-    "card": null
+    "possession_id": 108,
+    "card": null,
+    "player_name": "Josko Gvardiol"
   },
   {
     "event_id": "evt_0313",
@@ -5317,8 +5647,9 @@
     "y": 33.91,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 104,
-    "card": null
+    "possession_id": 108,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0314",
@@ -5327,32 +5658,16 @@
     "second": 25,
     "timestamp_seconds": 4525,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 50.91,
     "y": 50.01,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 105,
-    "card": null
-  },
-  {
-    "event_id": "evt_0315",
-    "match_id": "match_001",
-    "minute": 76,
-    "second": 35,
-    "timestamp_seconds": 4535,
-    "team_id": "HOME",
-    "player_id": "HOME_06",
-    "event_type": "shot",
-    "outcome": "blocked",
-    "x": 74.17,
-    "y": 73.59,
-    "xg": 0.093,
-    "possession_team": "HOME",
-    "possession_id": 105,
-    "card": null
+    "possession_id": 109,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0316",
@@ -5361,15 +5676,16 @@
     "second": 36,
     "timestamp_seconds": 4536,
     "team_id": "AWAY",
-    "player_id": "AWAY_06",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 99.06,
     "y": 73.93,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 106,
-    "card": null
+    "possession_id": 110,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0317",
@@ -5378,15 +5694,16 @@
     "second": 1,
     "timestamp_seconds": 4561,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 67.38,
     "y": 97.99,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 106,
-    "card": null
+    "possession_id": 110,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0318",
@@ -5395,15 +5712,16 @@
     "second": 19,
     "timestamp_seconds": 4579,
     "team_id": "AWAY",
-    "player_id": "AWAY_10",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 47.46,
     "y": 96.71,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 106,
-    "card": null
+    "possession_id": 110,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0319",
@@ -5412,15 +5730,16 @@
     "second": 30,
     "timestamp_seconds": 4590,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 72.14,
     "y": 58.35,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 106,
-    "card": null
+    "possession_id": 110,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0320",
@@ -5429,15 +5748,16 @@
     "second": 36,
     "timestamp_seconds": 4596,
     "team_id": "AWAY",
-    "player_id": "AWAY_02",
+    "player_id": "AWAY_08",
     "event_type": "shot",
     "outcome": "blocked",
     "x": 93.01,
     "y": 34.53,
     "xg": 0.253,
     "possession_team": "AWAY",
-    "possession_id": 106,
-    "card": null
+    "possession_id": 110,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0321",
@@ -5446,15 +5766,16 @@
     "second": 45,
     "timestamp_seconds": 4605,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 44.1,
     "y": 41.88,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 107,
-    "card": null
+    "possession_id": 111,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0322",
@@ -5463,15 +5784,16 @@
     "second": 52,
     "timestamp_seconds": 4612,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_04",
     "event_type": "pass",
     "outcome": "failed",
     "x": 77.5,
     "y": 92.05,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 107,
-    "card": null
+    "possession_id": 111,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0323",
@@ -5480,15 +5802,16 @@
     "second": 13,
     "timestamp_seconds": 4633,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_08",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 47.84,
     "y": 37.68,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 108,
-    "card": null
+    "possession_id": 112,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0324",
@@ -5497,15 +5820,16 @@
     "second": 20,
     "timestamp_seconds": 4640,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 53.31,
     "y": 54.63,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 108,
-    "card": null
+    "possession_id": 112,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0325",
@@ -5514,15 +5838,16 @@
     "second": 33,
     "timestamp_seconds": 4653,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 69.33,
     "y": 61.01,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 108,
-    "card": null
+    "possession_id": 112,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0326",
@@ -5531,15 +5856,16 @@
     "second": 35,
     "timestamp_seconds": 4655,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "failed",
     "x": 29.85,
     "y": 94.15,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 108,
-    "card": null
+    "possession_id": 112,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0327",
@@ -5548,15 +5874,16 @@
     "second": 20,
     "timestamp_seconds": 4700,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 56.05,
     "y": 93.45,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 109,
-    "card": null
+    "possession_id": 113,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0328",
@@ -5572,8 +5899,9 @@
     "y": 37.97,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 109,
-    "card": null
+    "possession_id": 113,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0329",
@@ -5582,15 +5910,16 @@
     "second": 44,
     "timestamp_seconds": 4724,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_08",
     "event_type": "foul",
     "outcome": "committed",
     "x": 80.46,
     "y": 29.05,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0330",
@@ -5599,15 +5928,16 @@
     "second": 45,
     "timestamp_seconds": 4725,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 44.24,
     "y": 25.64,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0331",
@@ -5616,15 +5946,16 @@
     "second": 8,
     "timestamp_seconds": 4748,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 74.09,
     "y": 23.93,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0332",
@@ -5633,15 +5964,16 @@
     "second": 17,
     "timestamp_seconds": 4757,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 23.28,
     "y": 10.02,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0333",
@@ -5650,15 +5982,16 @@
     "second": 35,
     "timestamp_seconds": 4775,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 77.08,
     "y": 0.52,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0334",
@@ -5667,15 +6000,16 @@
     "second": 44,
     "timestamp_seconds": 4784,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 93.5,
     "y": 87.84,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0335",
@@ -5684,15 +6018,16 @@
     "second": 59,
     "timestamp_seconds": 4799,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 28.72,
     "y": 28.54,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 110,
-    "card": null
+    "possession_id": 114,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0336",
@@ -5708,8 +6043,9 @@
     "y": 93.67,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 111,
-    "card": null
+    "possession_id": 115,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0337",
@@ -5718,15 +6054,16 @@
     "second": 36,
     "timestamp_seconds": 4836,
     "team_id": "AWAY",
-    "player_id": "AWAY_07",
+    "player_id": "AWAY_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 83.76,
     "y": 93.39,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 112,
-    "card": null
+    "possession_id": 116,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0338",
@@ -5735,15 +6072,16 @@
     "second": 41,
     "timestamp_seconds": 4841,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 18.63,
     "y": 74.9,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 112,
-    "card": null
+    "possession_id": 116,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0339",
@@ -5752,15 +6090,16 @@
     "second": 0,
     "timestamp_seconds": 4860,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_10",
     "event_type": "pass",
     "outcome": "successful",
     "x": 92.85,
     "y": 33.5,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 113,
-    "card": null
+    "possession_id": 117,
+    "card": null,
+    "player_name": "Nicolas Jackson"
   },
   {
     "event_id": "evt_0340",
@@ -5769,15 +6108,16 @@
     "second": 19,
     "timestamp_seconds": 4879,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 49.39,
     "y": 93.86,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 113,
-    "card": null
+    "possession_id": 117,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0341",
@@ -5786,15 +6126,16 @@
     "second": 36,
     "timestamp_seconds": 4896,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 80.88,
     "y": 33.07,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 114,
-    "card": null
+    "possession_id": 118,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0342",
@@ -5803,15 +6144,16 @@
     "second": 0,
     "timestamp_seconds": 4920,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_04",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 56.78,
     "y": 75.73,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 114,
-    "card": null
+    "possession_id": 118,
+    "card": null,
+    "player_name": "Levi Colwill"
   },
   {
     "event_id": "evt_0343",
@@ -5820,15 +6162,16 @@
     "second": 11,
     "timestamp_seconds": 4931,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_09",
     "event_type": "pass",
     "outcome": "successful",
     "x": 63.87,
     "y": 40.55,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 115,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0344",
@@ -5837,15 +6180,16 @@
     "second": 21,
     "timestamp_seconds": 4941,
     "team_id": "HOME",
-    "player_id": "HOME_06",
+    "player_id": "HOME_11",
     "event_type": "pass",
     "outcome": "successful",
     "x": 66.93,
     "y": 18.48,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 115,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0345",
@@ -5854,15 +6198,16 @@
     "second": 45,
     "timestamp_seconds": 4965,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_11",
     "event_type": "foul",
     "outcome": "committed",
     "x": 0.68,
     "y": 38.36,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 115,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0346",
@@ -5871,15 +6216,16 @@
     "second": 47,
     "timestamp_seconds": 4967,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_02",
     "event_type": "foul",
     "outcome": "committed",
     "x": 30.19,
     "y": 72.29,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 115,
-    "card": "yellow"
+    "possession_id": 119,
+    "card": "yellow",
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0347",
@@ -5888,32 +6234,16 @@
     "second": 7,
     "timestamp_seconds": 4987,
     "team_id": "HOME",
-    "player_id": "HOME_05",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "failed",
     "x": 40.54,
     "y": 50.25,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 115,
-    "card": null
-  },
-  {
-    "event_id": "evt_0348",
-    "match_id": "match_001",
-    "minute": 84,
-    "second": 29,
-    "timestamp_seconds": 5009,
-    "team_id": "AWAY",
-    "player_id": "AWAY_03",
-    "event_type": "shot",
-    "outcome": "off_target",
-    "x": 80.29,
-    "y": 33.25,
-    "xg": 0.154,
-    "possession_team": "AWAY",
-    "possession_id": 116,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0349",
@@ -5922,15 +6252,16 @@
     "second": 42,
     "timestamp_seconds": 5022,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 98.88,
     "y": 37.36,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 117,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0350",
@@ -5946,8 +6277,9 @@
     "y": 44.67,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 117,
-    "card": null
+    "possession_id": 119,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0351",
@@ -5956,15 +6288,16 @@
     "second": 38,
     "timestamp_seconds": 5078,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 56.42,
     "y": 6.18,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 118,
-    "card": null
+    "possession_id": 120,
+    "card": null,
+    "player_name": "John Stones"
   },
   {
     "event_id": "evt_0352",
@@ -5973,15 +6306,16 @@
     "second": 43,
     "timestamp_seconds": 5083,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_11",
     "event_type": "pass",
     "outcome": "failed",
     "x": 53.67,
     "y": 16.45,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 118,
-    "card": null
+    "possession_id": 120,
+    "card": null,
+    "player_name": "Kevin De Bruyne"
   },
   {
     "event_id": "evt_0353",
@@ -5997,8 +6331,9 @@
     "y": 58.31,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 121,
+    "card": null,
+    "player_name": "Pedro Neto"
   },
   {
     "event_id": "evt_0354",
@@ -6007,15 +6342,16 @@
     "second": 3,
     "timestamp_seconds": 5103,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 5.77,
     "y": 46.24,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 121,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0355",
@@ -6024,15 +6360,16 @@
     "second": 8,
     "timestamp_seconds": 5108,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_03",
     "event_type": "pass",
     "outcome": "successful",
     "x": 81.65,
     "y": 74.58,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 121,
+    "card": null,
+    "player_name": "Wesley Fofana"
   },
   {
     "event_id": "evt_0356",
@@ -6041,15 +6378,16 @@
     "second": 26,
     "timestamp_seconds": 5126,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 70.04,
     "y": 54.12,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 121,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0357",
@@ -6058,15 +6396,34 @@
     "second": 29,
     "timestamp_seconds": 5129,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_10",
     "event_type": "corner",
     "outcome": "awarded",
     "x": 47.21,
     "y": 28.71,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 121,
+    "card": null,
+    "player_name": "Nicolas Jackson"
+  },
+  {
+    "event_id": "evt_0348",
+    "match_id": "match_001",
+    "minute": 86,
+    "second": 30,
+    "timestamp_seconds": 5130,
+    "team_id": "AWAY",
+    "player_id": "AWAY_09",
+    "event_type": "shot",
+    "outcome": "goal",
+    "x": 80.29,
+    "y": 33.25,
+    "xg": 0.154,
+    "possession_team": "AWAY",
+    "possession_id": 122,
+    "card": null,
+    "player_name": "Erling Haaland"
   },
   {
     "event_id": "evt_0358",
@@ -6075,15 +6432,16 @@
     "second": 32,
     "timestamp_seconds": 5132,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_07",
     "event_type": "tackle",
     "outcome": "successful",
     "x": 76.58,
     "y": 97.83,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 119,
-    "card": null
+    "possession_id": 123,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0359",
@@ -6092,15 +6450,16 @@
     "second": 51,
     "timestamp_seconds": 5151,
     "team_id": "HOME",
-    "player_id": "HOME_07",
+    "player_id": "HOME_06",
     "event_type": "foul",
     "outcome": "committed",
     "x": 37.45,
     "y": 89.13,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 120,
-    "card": null
+    "possession_id": 124,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0360",
@@ -6109,15 +6468,16 @@
     "second": 5,
     "timestamp_seconds": 5165,
     "team_id": "AWAY",
-    "player_id": "AWAY_09",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 34.78,
     "y": 17.85,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 120,
-    "card": null
+    "possession_id": 124,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0361",
@@ -6126,15 +6486,16 @@
     "second": 8,
     "timestamp_seconds": 5168,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 97.87,
     "y": 83.48,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 120,
-    "card": null
+    "possession_id": 124,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0362",
@@ -6143,15 +6504,16 @@
     "second": 34,
     "timestamp_seconds": 5194,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 71.91,
     "y": 42.41,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 120,
-    "card": null
+    "possession_id": 124,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0363",
@@ -6167,8 +6529,9 @@
     "y": 27.56,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 120,
-    "card": null
+    "possession_id": 124,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0364",
@@ -6177,15 +6540,16 @@
     "second": 43,
     "timestamp_seconds": 5203,
     "team_id": "HOME",
-    "player_id": "HOME_01",
+    "player_id": "HOME_08",
     "event_type": "pass",
     "outcome": "failed",
     "x": 66.02,
     "y": 61.49,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 121,
-    "card": null
+    "possession_id": 125,
+    "card": null,
+    "player_name": "Cole Palmer"
   },
   {
     "event_id": "evt_0365",
@@ -6194,15 +6558,16 @@
     "second": 55,
     "timestamp_seconds": 5215,
     "team_id": "AWAY",
-    "player_id": "AWAY_11",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 6.73,
     "y": 59.39,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 122,
-    "card": null
+    "possession_id": 126,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0366",
@@ -6211,15 +6576,16 @@
     "second": 2,
     "timestamp_seconds": 5222,
     "team_id": "AWAY",
-    "player_id": "AWAY_01",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "failed",
     "x": 23.43,
     "y": 21.73,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 122,
-    "card": null
+    "possession_id": 126,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0367",
@@ -6228,15 +6594,16 @@
     "second": 15,
     "timestamp_seconds": 5235,
     "team_id": "HOME",
-    "player_id": "HOME_10",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "failed",
     "x": 99.35,
     "y": 23.42,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 123,
-    "card": null
+    "possession_id": 127,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0368",
@@ -6245,15 +6612,16 @@
     "second": 47,
     "timestamp_seconds": 5267,
     "team_id": "AWAY",
-    "player_id": "AWAY_05",
+    "player_id": "AWAY_06",
     "event_type": "pass",
     "outcome": "successful",
     "x": 59.79,
     "y": 67.25,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 124,
-    "card": null
+    "possession_id": 128,
+    "card": null,
+    "player_name": "Rodri"
   },
   {
     "event_id": "evt_0369",
@@ -6269,8 +6637,9 @@
     "y": 94.85,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 124,
-    "card": null
+    "possession_id": 128,
+    "card": null,
+    "player_name": "Ruben Dias"
   },
   {
     "event_id": "evt_0370",
@@ -6279,15 +6648,16 @@
     "second": 26,
     "timestamp_seconds": 5306,
     "team_id": "HOME",
-    "player_id": "HOME_11",
+    "player_id": "HOME_06",
     "event_type": "pass",
     "outcome": "failed",
     "x": 42.72,
     "y": 49.56,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 125,
-    "card": null
+    "possession_id": 129,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0371",
@@ -6296,15 +6666,16 @@
     "second": 33,
     "timestamp_seconds": 5313,
     "team_id": "AWAY",
-    "player_id": "AWAY_03",
+    "player_id": "AWAY_08",
     "event_type": "pass",
     "outcome": "successful",
     "x": 78.58,
     "y": 31.87,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 126,
-    "card": null
+    "possession_id": 130,
+    "card": null,
+    "player_name": "Phil Foden"
   },
   {
     "event_id": "evt_0372",
@@ -6313,15 +6684,16 @@
     "second": 42,
     "timestamp_seconds": 5322,
     "team_id": "AWAY",
-    "player_id": "AWAY_04",
+    "player_id": "AWAY_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 18.39,
     "y": 53.79,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 126,
-    "card": null
+    "possession_id": 130,
+    "card": null,
+    "player_name": "Bernardo Silva"
   },
   {
     "event_id": "evt_0373",
@@ -6330,15 +6702,16 @@
     "second": 9,
     "timestamp_seconds": 5349,
     "team_id": "HOME",
-    "player_id": "HOME_03",
+    "player_id": "HOME_11",
     "event_type": "foul",
     "outcome": "committed",
     "x": 56.24,
     "y": 96.78,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 126,
-    "card": null
+    "possession_id": 130,
+    "card": null,
+    "player_name": "Noni Madueke"
   },
   {
     "event_id": "evt_0374",
@@ -6347,15 +6720,16 @@
     "second": 29,
     "timestamp_seconds": 5369,
     "team_id": "AWAY",
-    "player_id": "AWAY_08",
+    "player_id": "AWAY_02",
     "event_type": "pass",
     "outcome": "successful",
     "x": 25.5,
     "y": 33.03,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 126,
-    "card": null
+    "possession_id": 130,
+    "card": null,
+    "player_name": "Kyle Walker"
   },
   {
     "event_id": "evt_0375",
@@ -6364,15 +6738,16 @@
     "second": 45,
     "timestamp_seconds": 5385,
     "team_id": "HOME",
-    "player_id": "HOME_04",
+    "player_id": "HOME_06",
     "event_type": "interception",
     "outcome": "successful",
     "x": 9.25,
     "y": 72.46,
     "xg": null,
     "possession_team": "AWAY",
-    "possession_id": 126,
-    "card": null
+    "possession_id": 130,
+    "card": null,
+    "player_name": "Moises Caicedo"
   },
   {
     "event_id": "evt_0376",
@@ -6381,15 +6756,16 @@
     "second": 51,
     "timestamp_seconds": 5391,
     "team_id": "HOME",
-    "player_id": "HOME_02",
+    "player_id": "HOME_07",
     "event_type": "pass",
     "outcome": "successful",
     "x": 37.72,
     "y": 60.5,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 127,
-    "card": null
+    "possession_id": 131,
+    "card": null,
+    "player_name": "Enzo Fernandez"
   },
   {
     "event_id": "evt_0377",
@@ -6398,14 +6774,15 @@
     "second": 54,
     "timestamp_seconds": 5394,
     "team_id": "HOME",
-    "player_id": "HOME_08",
+    "player_id": "HOME_05",
     "event_type": "pass",
     "outcome": "successful",
     "x": 76.17,
     "y": 72.43,
     "xg": null,
     "possession_team": "HOME",
-    "possession_id": 127,
-    "card": null
+    "possession_id": 131,
+    "card": null,
+    "player_name": "Marc Cucurella"
   }
 ]
