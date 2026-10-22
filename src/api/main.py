@@ -1,9 +1,10 @@
 
 import json
 from pathlib import Path
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi import Query
+from src.processing.match_stats import calculate_stats
 
 # Resolve paths relative to the project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -83,3 +84,52 @@ def get_events():
             event["event_id"]
         )
     )
+
+
+@app.get("/api/replay")
+def get_replay(minute: int = Query(default=0, ge=0, le=90)):
+    """
+    Return the match state at a particular minute.
+    Example: /api/replay?minute=45
+    """
+    events = load_json("match_001.json")
+    metadata = load_json("match_001_metadata.json")
+
+    # Only include events that have happened by this minute
+    elapsed_events = [
+        event for event in events
+        if event["minute"] <= minute
+    ]
+
+    # Recalculate statistics using only elapsed events
+    stats = calculate_stats(elapsed_events)
+
+    # Calculate the score from goal events
+    score = {"HOME": 0, "AWAY": 0}
+
+    for event in elapsed_events:
+        if (
+            event["event_type"] == "shot"
+            and event["outcome"] == "goal"
+        ):
+            score[event["team_id"]] += 1
+
+    # Collect important events for the timeline
+    important_types = {
+        "shot", "corner", "yellow_card", "red_card"
+    }
+
+    key_events = [
+        event for event in elapsed_events
+        if event["event_type"] in important_types
+    ]
+
+    return {
+        "match_id": "match_001",
+        "minute": minute,
+        "teams": metadata["teams"],
+        "score": score,
+        "stats": stats,
+        "key_events": key_events,
+        "events_processed": len(elapsed_events)
+    }
