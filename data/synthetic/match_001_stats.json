@@ -8,7 +8,11 @@
     "completed_passes": 92,
     "events": 156,
     "pass_accuracy": 100.0,
-    "event_share": 47.6
+    "event_share": 47.6,
+    "Fouls": 7,
+    "Yellow card": 3,
+    "Red card": 1,
+    "Possession": 53
   },
   "AWAY": {
     "goals": 3,
@@ -19,6 +23,10 @@
     "completed_passes": 102,
     "events": 172,
     "pass_accuracy": 100.0,
-    "event_share": 52.4
+    "event_share": 52.4,
+    "Fouls": 10,
+    "Yellow card": 4,
+    "Red card": 0,
+    "Posession": 47
   }
 }
