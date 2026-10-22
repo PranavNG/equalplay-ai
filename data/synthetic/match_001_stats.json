@@ -12,7 +12,8 @@
     "Fouls": 7,
     "Yellow card": 3,
     "Red card": 1,
-    "Possession": 53
+    "Possession": 53,
+    "Corner": 8
   },
   "AWAY": {
     "goals": 3,
@@ -27,6 +28,7 @@
     "Fouls": 10,
     "Yellow card": 4,
     "Red card": 0,
-    "Posession": 47
+    "Posession": 47,
+    "Corner": 5
   }
 }
