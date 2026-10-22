@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EqualPlay AI | Accessible Match Experience</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to match content</a>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">◉</span> EqualPlay <span class="brand-ai">AI</span></div>
+    <div class="topbar-right"><span class="demo-tag">SYNTHETIC MATCH DEMO</span><span id="connection" role="status">Connecting…</span></div>
+  </header>
+  <main id="main" class="shell">
+    <section class="intro">
+      <div><p class="eyebrow">FOOTBALL FOR EVERY FAN</p><h1>Experience every moment.</h1><p class="subtitle">Accessible, explainable football — your way.</p></div>
+      <div class="mode-panel" aria-label="Accessibility preferences"><span class="panel-label">YOUR EXPERIENCE</span><div class="mode-buttons" role="group" aria-label="Commentary mode"><button class="mode active" data-mode="visual" aria-pressed="true">◉ Visual</button><button class="mode" data-mode="audio" aria-pressed="false">♫ Audio-first</button><button class="mode" data-mode="simple" aria-pressed="false">☰ Simplified</button></div></div>
+    </section>
+    <section class="score-card" aria-label="Match scoreboard">
+      <div class="score-top"><span class="live-pill" id="match-state">KICKOFF</span><span id="minute-display">0'</span></div>
+      <div class="scoreboard"><div class="team"><div class="crest home-crest" aria-hidden="true">LC</div><h2 id="home-name">London City FC</h2><span class="team-side">HOME</span></div><div class="score" aria-label="Current score"><span id="home-score">0</span><span class="dash">:</span><span id="away-score">0</span></div><div class="team"><div class="crest away-crest" aria-hidden="true">MR</div><h2 id="away-name">Manchester Royals</h2><span class="team-side">AWAY</span></div></div>
+      <div class="replay-controls"><button id="play-button" class="primary">▶ Play match</button><label class="slider-label" for="minute-slider">Match timeline <span id="slider-value">0 / 90 min</span></label><input id="minute-slider" type="range" min="0" max="90" step="1" value="0" /><button id="reset-button" class="secondary">↺ Restart</button></div>
+      <p class="hint">Replay uses generated events, not a real live match.</p>
+    </section>
+    <div class="dashboard">
+      <section class="panel commentary" aria-labelledby="commentary-heading"><div class="panel-header"><div><p class="eyebrow">MATCH EXPERIENCE</p><h2 id="commentary-heading">Match commentary</h2></div><button id="speak-button" class="secondary">🔊 Read update</button></div><div class="featured-event" id="featured-event" aria-live="off"><span class="event-minute">0'</span><p>Ready for kickoff. Press Play to experience the match.</p></div><div class="feed-header">EVENT TIMELINE</div><ol id="event-feed" class="event-feed"><li>Match events will appear here as the replay progresses.</li></ol><p id="announcement" class="sr-only" aria-live="polite" aria-atomic="true"></p></section>
+      <section class="panel statistics" aria-labelledby="stats-heading"><div class="panel-header"><div><p class="eyebrow">THE NUMBERS</p><h2 id="stats-heading">Match statistics</h2></div><span class="stats-minute" id="stats-minute">0'</span></div><div class="stats-head"><span>LCF</span><span>MCR</span></div><div id="stats-list"></div><p class="hint">Possession is estimated from simulated event intervals.</p></section>
+    </div>
+    <footer>EqualPlay AI · Built for inclusive football experiences · All match data is synthetic</footer>
+  </main>
+</body>
+</html>
