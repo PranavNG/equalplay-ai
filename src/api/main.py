@@ -5,6 +5,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import Query
 from src.processing.match_stats import calculate_stats
+from src.ai.match_summary import generate_match_summary
 
 # Resolve paths relative to the project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -134,4 +135,16 @@ def get_replay(minute: int = Query(default=0, ge=0, le=90)):
         "stats": stats,
         "key_events": key_events,
         "events_processed": len(elapsed_events)
+    }
+
+
+@app.get("/api/ai/summary")
+def get_ai_summary():
+    summary = generate_match_summary()
+
+    return {
+        "match_id": "match_001",
+        "model": "gpt-5-mini",
+        "summary": summary,
+        "synthetic": True
     }
