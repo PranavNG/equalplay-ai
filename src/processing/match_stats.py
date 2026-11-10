@@ -8,7 +8,7 @@ METADATA = Path("data/synthetic/match_001_metadata.json")
 OUTPUT = Path("data/synthetic/match_001_stats.json")
 
 
-def calculate_stats(events):
+def calculate_stats(events, end_timestamp=5400):
     stats = {
         team: {
             "goals": 0, "shots": 0, "shots_on_target": 0, "xg": 0.0,
@@ -57,8 +57,11 @@ def calculate_stats(events):
         durations = {"HOME": 0, "AWAY": 0}
         for i, event in enumerate(events):
             start = event["timestamp_seconds"]
-            end = events[i + 1]["timestamp_seconds"] if i + \
-                1 < len(events) else 5400
+            end = (
+                events[i + 1]["timestamp_seconds"]
+                if i + 1 < len(events)
+                else end_timestamp
+            )
             durations[event["possession_team"]] += max(0, end - start)
         total = sum(durations.values())
         if total:

@@ -105,7 +105,7 @@ def get_replay(minute: int = Query(default=0, ge=0, le=90)):
     ]
 
     # Recalculate statistics using only elapsed events
-    stats = calculate_stats(elapsed_events)
+    stats = calculate_stats(elapsed_events, end_timestamp=minute * 60)
 
     # Calculate the score from goal events
     score = {"HOME": 0, "AWAY": 0}

@@ -1,11 +1,11 @@
 {
   "match_id": "match_001",
   "competition": "Synthetic Premier League",
-  "venue": "London City Stadium",
+  "venue": "Stamford Bridge",
   "teams": {
     "HOME": {
       "name": "Chelsea",
-      "short_name": "LCF",
+      "short_name": "CHE",
       "primary_color": "#2877C7",
       "players": [
         {
@@ -67,7 +67,7 @@
     },
     "AWAY": {
       "name": "Manchester City",
-      "short_name": "MCR",
+      "short_name": "MCI",
       "primary_color": "#C44949",
       "players": [
         {

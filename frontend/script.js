@@ -30,11 +30,21 @@ function safeText(value, fallback = '—') {
   return value === null || value === undefined ? fallback : String(value);
 }
 function eventDescription(event, simple = false) {
-  const team = event.team_id === 'HOME' ? 'London City FC' : 'Manchester Royals';
+  const team = latestState?.teams?.[event.team_id]?.name
+    || (event.team_id === 'HOME' ? 'Chelsea' : 'Manchester City');
   const type = event.event_type;
-  if (type === 'shot' && event.outcome === 'goal') return simple ? `${team} scored a goal.` : `GOAL! ${team} scores! The match changes in the ${event.minute}th minute.`;
-  if (type === 'shot') return simple ? `${team} took a shot.` : `${team} takes a shot — ${String(event.outcome || 'attempt').replaceAll('_', ' ')}.`;
-  if (type === 'yellow_card') return simple ? `A ${team} player got a yellow card.` : `Yellow card shown to ${team}.`;
+  if (type === 'shot' && event.outcome === 'goal') {
+    const player = event.player_name || 'A player';
+    return simple
+      ? `${player} scored for ${team}.`
+      : `GOAL! ${player} scores for ${team} in the ${event.minute}th minute!`;
+  }
+  if (type === 'shot') {
+    const player = event.player_name || team;
+    return simple
+      ? `${player} took a shot for ${team}.`
+      : `${player} (${team}) takes a shot — ${String(event.outcome || 'attempt').replaceAll('_', ' ')}.`;
+  } if (type === 'yellow_card') return simple ? `A ${team} player got a yellow card.` : `Yellow card shown to ${team}.`;
   if (type === 'red_card') return simple ? `A ${team} player got a red card.` : `Red card! ${team} will have to adjust.`;
   if (type === 'corner') return `${team} wins a corner.`;
   return `${team}: ${type.replaceAll('_', ' ')}.`;
