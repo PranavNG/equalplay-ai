@@ -5,7 +5,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import Query
 from src.processing.match_stats import calculate_stats
-from src.ai.match_summary import generate_match_summary
+from src.processing.key_moments import detect_key_moments, identify_winning_goal
+from src.ai.analysis_engine import generate_analysis
 
 # Resolve paths relative to the project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -138,13 +139,32 @@ def get_replay(minute: int = Query(default=0, ge=0, le=90)):
     }
 
 
-@app.get("/api/ai/summary")
-def get_ai_summary():
-    summary = generate_match_summary()
+@app.get("/api/key-moments")
+def get_key_moments():
+    with open("data/synthetic/match_001.json", encoding="utf-8") as f:
+        events = json.load(f)
+
+    moments = detect_key_moments(events)
+    moments = identify_winning_goal(moments)
 
     return {
         "match_id": "match_001",
-        "model": "gpt-5-mini",
-        "summary": summary,
-        "synthetic": True
+        "total_moments": len(moments),
+        "moments": moments
+    }
+
+
+@app.get("/api/ai/summary")
+def get_ai_summary():
+    return {
+        "summary": generate_analysis("recap")
+    }
+
+
+@app.get("/api/ai/tactical_analysis")
+def get_ai_tactical_analysis():
+    return {
+        "match_id": "match_001",
+        "analysis_type": "tactical",
+        "analysis": generate_analysis("tactical")
     }

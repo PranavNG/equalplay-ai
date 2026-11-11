@@ -5,6 +5,7 @@ const $ = (id) => document.getElementById(id);
 const MAX_MINUTE = 90;
 const TICK_MS = 900;
 let minute = 0;
+let allKeyMoments = [];
 let playing = false;
 let timer = null;
 let mode = 'visual';
@@ -106,6 +107,7 @@ function render(state) {
     }
     if (mode === 'audio') speak(eventDescription(latest));
   }
+  renderKeyMoments();
 }
 async function fetchReplay(nextMinute) {
   const seq = ++requestSequence;
@@ -187,3 +189,78 @@ summaryButton.addEventListener('click', async () => {
     summaryButton.disabled = false;
   }
 });
+
+function renderKeyMoments() {
+  const container = $('key-moments-list');
+  container.replaceChildren();
+
+  const descriptions = {
+    takes_lead: 'Takes the lead',
+    equaliser: 'Equalises',
+    extends_lead: 'Extends the lead'
+  };
+
+  const visibleMoments = allKeyMoments.filter(
+    moment => moment.minute <= minute
+  );
+
+  for (const moment of visibleMoments) {
+    const item = document.createElement('div');
+    item.className = 'key-moment-item';
+
+    if (moment.is_winning_goal && minute >= 90) {
+      item.classList.add('winning-goal');
+    }
+
+    const minuteLabel = document.createElement('span');
+    minuteLabel.className = 'key-moment-minute';
+    minuteLabel.textContent = `${moment.minute}'`;
+
+    const details = document.createElement('div');
+    details.className = 'key-moment-details';
+
+    const player = document.createElement('strong');
+    player.textContent = moment.player_name || 'Unknown player';
+
+    const description = document.createElement('p');
+    description.textContent = moment.is_winning_goal && minute >= 90
+      ? 'Match-winning goal'
+      : descriptions[moment.significance] || 'Important moment';
+
+    details.append(player, description);
+
+    const score = document.createElement('span');
+    score.className = 'key-moment-score';
+    score.textContent = `${moment.score.HOME}–${moment.score.AWAY}`;
+
+    item.append(minuteLabel, details, score);
+    container.appendChild(item);
+  }
+
+  if (visibleMoments.length === 0) {
+    container.textContent =
+      'No key moments yet. Advance the replay to see them.';
+  }
+}
+
+async function loadKeyMoments() {
+  const container = $('key-moments-list');
+
+  try {
+    const response = await fetch(`${API_BASE}/api/key-moments`);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+    allKeyMoments = data.moments;
+
+    renderKeyMoments();
+  } catch (error) {
+    container.textContent =
+      `Unable to load key moments: ${error.message}`;
+  }
+}
+
+loadKeyMoments();

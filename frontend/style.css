@@ -523,3 +523,119 @@ body.audio-mode .featured-event {
     border-left-color: #e77787;
     color: #ffb3c0;
 }
+
+
+.key-moments {
+    background: #101d31;
+    border: 1px solid #304563;
+    border-radius: 24px;
+    padding: 36px;
+    margin: 28px 0;
+}
+
+.key-moments .section-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 24px;
+}
+
+.key-moments h2 {
+    margin: 0 0 12px;
+    font-size: 28px;
+    color: #e8eef8;
+}
+
+.key-moments .section-head p {
+    margin: 0;
+    color: #a7b9d2;
+}
+
+.key-moments .badge {
+    display: inline-block;
+    padding: 8px 14px;
+    border-radius: 999px;
+    background: #1b3550;
+    color: #73caff;
+    font-size: 13px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.key-moments-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    color: #cbd8eb;
+}
+
+@media (max-width: 600px) {
+    .key-moments {
+        padding: 22px;
+    }
+
+    .key-moments .section-head {
+        flex-direction: column;
+    }
+}
+
+.key-moment-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 18px 20px;
+    background: #172840;
+    border: 1px solid #304563;
+    border-radius: 14px;
+}
+
+.key-moment-minute {
+    min-width: 52px;
+    color: #73caff;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.key-moment-details {
+    flex: 1;
+}
+
+.key-moment-details strong {
+    color: #e8eef8;
+    font-size: 16px;
+}
+
+.key-moment-details p {
+    margin: 6px 0 0;
+    color: #a7b9d2;
+    font-size: 14px;
+}
+
+.key-moment-score {
+    color: #e8eef8;
+    font-size: 20px;
+    font-weight: 800;
+    white-space: nowrap;
+}
+
+.key-moment-item.winning-goal {
+    border-color: #73caff;
+    background: #19344d;
+}
+
+@media (max-width: 600px) {
+    .key-moment-item {
+        gap: 12px;
+        padding: 14px;
+    }
+
+    .key-moment-minute {
+        min-width: 38px;
+        font-size: 17px;
+    }
+
+    .key-moment-score {
+        font-size: 17px;
+    }
+}
