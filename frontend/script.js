@@ -155,3 +155,35 @@ document.querySelectorAll('[data-mode]').forEach(button => button.addEventListen
   if (latestState) render(latestState);
 }));
 fetchReplay(0);
+
+
+const summaryButton = $('generate-summary-button');
+const summaryContent = $('ai-summary-content');
+
+summaryButton.addEventListener('click', async () => {
+  summaryButton.disabled = true;
+  summaryButton.textContent = 'Generating summary...';
+  summaryContent.classList.remove('error');
+  summaryContent.textContent = 'Analysing match events...';
+
+  try {
+    const response = await fetch(`${API_BASE}/api/ai/summary`);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+    summaryContent.textContent = data.summary;
+
+    summaryButton.textContent = 'Generate Again';
+  } catch (error) {
+    summaryContent.classList.add('error');
+    summaryContent.textContent =
+      `Unable to generate summary: ${error.message}`;
+
+    summaryButton.textContent = 'Try Again';
+  } finally {
+    summaryButton.disabled = false;
+  }
+});

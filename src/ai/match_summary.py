@@ -1,13 +1,14 @@
 
 import json
 from pathlib import Path
-
+from functools import lru_cache
 from src.ai.azure_client import generate_response
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_ROOT / "data" / "synthetic"
 
 
+@lru_cache(maxsize=32)
 def generate_match_summary():
     with open(DATA_DIR / "match_001_metadata.json", encoding="utf-8") as f:
         metadata = json.load(f)
