@@ -38,16 +38,84 @@ Requirements:
 - Do not claim to have watched the match.
 - Explain what the statistics suggest, not what they prove.
 - Use accessible, natural football language.
+""",
+
+    "key_moments": """
+You are a professional football match analyst.
+
+Explain the key moments that shaped this synthetic match.
+
+Write approximately 150-200 words.
+
+Focus on:
+- Each goal and its impact on the score.
+- Equalisers and changes in the lead.
+- Why the match-winning goal was decisive.
+- How the sequence of goals shaped the result.
+
+Requirements:
+- Explain events in chronological order.
+- Use the verified key_moments data.
+- Include the minute, goalscorer and score where relevant.
+- Distinguish confirmed facts from interpretations.
+- Do not invent assists, tactical changes, injuries or reactions.
+- Do not claim momentum shifted without supporting evidence.
+- Explain the importance of each moment naturally.
+""",
+
+    "simplified": """
+You explain football matches to people who may be new to football.
+
+Write a simple, accessible match explanation of 100-150 words.
+
+Requirements:
+- Use short, clear sentences and everyday language.
+- Explain who won and the final score.
+- Describe the most important goals in chronological order.
+- Explain why the winning goal mattered.
+- Avoid technical football jargon.
+- If mentioning xG, explain it as the quality of scoring chances.
+- Avoid unnecessary statistics and complicated percentages.
+- Do not invent events or unsupported explanations.
+- Write naturally without headings or bullet points.
+- Make the explanation suitable for audio narration.
+""",
+
+    "team_focus": """
+You are a football analyst providing a team-focused match review.
+
+Write approximately 150 words.
+
+Requirements:
+- Focus primarily on the selected team's performance.
+- Explain the team's goals and important match moments.
+- Compare relevant statistics with the opposition.
+- Discuss strengths and weaknesses supported by the data.
+- Keep the analysis balanced, even when addressing a fan.
+- Do not invent tactics, formations or player actions.
+- Avoid unsupported conclusions.
+- Write naturally without headings or bullet points.
 """
 }
 
 
 @lru_cache(maxsize=32)
-def generate_analysis(mode="recap"):
+def generate_analysis(mode="recap", team=None):
     if mode not in PROMPTS:
         raise ValueError(f"Unsupported analysis mode: {mode}")
 
+    if mode == "team_focus" and team not in ("HOME", "AWAY"):
+        raise ValueError("Team focus requires HOME or AWAY")
+    if mode != "team_focus" and team is not None:
+        raise ValueError("Team parameter is only supported for team_focus")
+
     context = build_match_context()
+
+    selected_team = (
+        context["teams"][team]
+        if mode == "team_focus"
+        else None
+    )
 
     prompt = f"""
 {PROMPTS[mode]}
@@ -60,14 +128,10 @@ General requirements:
 - Do not describe scoring above xG as proof of above-average
   finishing ability.
 
+Selected team: {selected_team if selected_team else "Not applicable"}
+
 Match context:
 {json.dumps(context, indent=2)}
-"""
+    """
 
     return generate_response(prompt)
-
-
-if __name__ == "__main__":
-    for mode in PROMPTS:
-        print(f"\n{'=' * 20} {mode.upper()} {'=' * 20}")
-        print(generate_analysis(mode))

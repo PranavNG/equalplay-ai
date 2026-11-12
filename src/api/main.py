@@ -7,6 +7,7 @@ from fastapi import Query
 from src.processing.match_stats import calculate_stats
 from src.processing.key_moments import detect_key_moments, identify_winning_goal
 from src.ai.analysis_engine import generate_analysis
+from fastapi import HTTPException
 
 # Resolve paths relative to the project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -168,3 +169,19 @@ def get_ai_tactical_analysis():
         "analysis_type": "tactical",
         "analysis": generate_analysis("tactical")
     }
+
+
+@app.get("/api/ai/analyse")
+def get_ai_analysis(mode: str = "recap", team: str | None = None):
+    try:
+        analysis = generate_analysis(mode, team)
+
+        return {
+            "match_id": "match_001",
+            "analysis_type": mode,
+            "team": team,
+            "analysis": analysis
+        }
+
+    except ValueError as error:
+        raise HTTPException(status_code=400, detail=str(error))
