@@ -7,6 +7,7 @@ from fastapi import Query
 from src.processing.match_stats import calculate_stats
 from src.processing.key_moments import detect_key_moments, identify_winning_goal
 from src.ai.analysis_engine import generate_analysis
+from src.ai.commentary_engine import generate_match_commentary
 from fastapi import HTTPException
 
 # Resolve paths relative to the project root
@@ -185,3 +186,9 @@ def get_ai_analysis(mode: str = "recap", team: str | None = None):
 
     except ValueError as error:
         raise HTTPException(status_code=400, detail=str(error))
+
+
+@app.get("/api/ai/commentary")
+def get_ai_commentary():
+    """Generate accessible highlight commentary once per server process."""
+    return generate_match_commentary()

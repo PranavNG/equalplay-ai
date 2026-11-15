@@ -1,0 +1,2269 @@
+{
+  "match_id": "match_001",
+  "version": 3,
+  "fingerprint": "8b6288f932f98ba6abd4aa3a4a39c88cdb21d5c586b9267c0c123efbe4075516",
+  "highlights": [
+    {
+      "event_id": "evt_0001",
+      "minute": 1,
+      "expressive": "Fofana's early pass goes astray and Manchester City recover possession.",
+      "simplified": "Wesley Fofana attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0002",
+      "minute": 1,
+      "expressive": "Bernardo Silva completes a tidy pass to keep City's move flowing.",
+      "simplified": "Bernardo Silva completed a pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0003",
+      "minute": 1,
+      "expressive": "Jeremy Doku finds a teammate with a successful pass in City's opening spell.",
+      "simplified": "Jeremy Doku completed a pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0004",
+      "minute": 2,
+      "expressive": "Caicedo times his challenge well and wins the ball with a successful tackle.",
+      "simplified": "Moises Caicedo made a successful tackle."
+    },
+    {
+      "event_id": "evt_0005",
+      "minute": 2,
+      "expressive": "Fofana follows up with a completed pass to retain Chelsea's build-up.",
+      "simplified": "Wesley Fofana completed a pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0006",
+      "minute": 2,
+      "expressive": "Ruben Dias steps in and makes a successful interception for Manchester City.",
+      "simplified": "Ruben Dias intercepted the ball successfully."
+    },
+    {
+      "event_id": "evt_0007",
+      "minute": 2,
+      "expressive": "Kevin De Bruyne finds a teammate with a crisp early pass, getting City moving.",
+      "simplified": "Kevin De Bruyne completed a pass for Manchester City in the 2nd minute."
+    },
+    {
+      "event_id": "evt_0008",
+      "minute": 2,
+      "expressive": "De Bruyne threads another accurate pass, keeping Manchester City's play ticking.",
+      "simplified": "Kevin De Bruyne completed a second pass for Manchester City in the 2nd minute."
+    },
+    {
+      "event_id": "evt_0009",
+      "minute": 2,
+      "expressive": "Jeremy Doku attempts a forward pass but it fails to reach its target.",
+      "simplified": "Jeremy Doku attempted a pass for Manchester City in the 2nd minute that failed."
+    },
+    {
+      "event_id": "evt_0010",
+      "minute": 3,
+      "expressive": "Cole Palmer's pass goes astray and the move breaks down for Chelsea.",
+      "simplified": "Cole Palmer attempted a pass for Chelsea in the 3rd minute that failed."
+    },
+    {
+      "event_id": "evt_0011",
+      "minute": 3,
+      "expressive": "De Bruyne picks out a teammate again with a neat short pass.",
+      "simplified": "Kevin De Bruyne completed a pass for Manchester City in the 3rd minute."
+    },
+    {
+      "event_id": "evt_0012",
+      "minute": 3,
+      "expressive": "Jeremy Doku connects with a tidy pass to continue City's build-up.",
+      "simplified": "Jeremy Doku completed a pass for Manchester City in the 3rd minute."
+    },
+    {
+      "event_id": "evt_0013",
+      "minute": 3,
+      "expressive": "Erling Haaland tries a forward pass but it doesn't connect, halting Manchester City's early move.",
+      "simplified": "Erling Haaland's pass failed."
+    },
+    {
+      "event_id": "evt_0014",
+      "minute": 3,
+      "expressive": "Noni Madueke completes a neat pass, keeping Chelsea's possession ticking.",
+      "simplified": "Noni Madueke completed a pass successfully."
+    },
+    {
+      "event_id": "evt_0015",
+      "minute": 3,
+      "expressive": "Pedro Neto finds a teammate with a clean pass, progressing Chelsea's move.",
+      "simplified": "Pedro Neto completed a pass."
+    },
+    {
+      "event_id": "evt_0016",
+      "minute": 4,
+      "expressive": "Marc Cucurella plays a short pass to keep Chelsea moving.",
+      "simplified": "Marc Cucurella's pass was successful."
+    },
+    {
+      "event_id": "evt_0017",
+      "minute": 4,
+      "expressive": "A corner is awarded to Chelsea after Moises Caicedo's play.",
+      "simplified": "Moises Caicedo was awarded a corner for Chelsea."
+    },
+    {
+      "event_id": "evt_0018",
+      "minute": 4,
+      "expressive": "Rodri intercepts the ball to halt Chelsea and reclaim possession for Manchester City.",
+      "simplified": "Rodri made a successful interception."
+    },
+    {
+      "event_id": "evt_0019",
+      "minute": 4,
+      "expressive": "Ruben Dias attempts a threaded pass but it breaks down quickly.",
+      "simplified": "Ruben Dias's pass failed."
+    },
+    {
+      "event_id": "evt_0020",
+      "minute": 4,
+      "expressive": "Wesley Fofana threads a tidy pass, keeping Chelsea's build-up alive.",
+      "simplified": "Wesley Fofana's pass was successful."
+    },
+    {
+      "event_id": "evt_0021",
+      "minute": 5,
+      "expressive": "Moises Caicedo's pass misfires, interrupting Chelsea's attack.",
+      "simplified": "Moises Caicedo's pass failed."
+    },
+    {
+      "event_id": "evt_0022",
+      "minute": 5,
+      "expressive": "Rodri wins a corner for Manchester City.",
+      "simplified": "Rodri was awarded a corner for Manchester City."
+    },
+    {
+      "event_id": "evt_0023",
+      "minute": 5,
+      "expressive": "Marc Cucurella intercepts the ball to halt the move.",
+      "simplified": "Marc Cucurella made a successful interception."
+    },
+    {
+      "event_id": "evt_0024",
+      "minute": 5,
+      "expressive": "Reece James's pass goes astray, stopping the sequence.",
+      "simplified": "Reece James's pass failed."
+    },
+    {
+      "event_id": "evt_0025",
+      "minute": 5,
+      "expressive": "Pedro Neto brings play to a halt with a foul in the fifth minute.",
+      "simplified": "Pedro Neto committed a foul in the 5th minute."
+    },
+    {
+      "event_id": "evt_0026",
+      "minute": 6,
+      "expressive": "Enzo Fernandez stops play with a foul early in the sixth minute.",
+      "simplified": "Enzo Fernandez committed a foul in the 6th minute."
+    },
+    {
+      "event_id": "evt_0027",
+      "minute": 6,
+      "expressive": "John Stones completes a short, successful pass.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0028",
+      "minute": 6,
+      "expressive": "Phil Foden completes a successful pass to keep the move alive.",
+      "simplified": "Phil Foden completed a successful pass."
+    },
+    {
+      "event_id": "evt_0029",
+      "minute": 6,
+      "expressive": "Phil Foden's shot was saved in the sixth minute.",
+      "simplified": "Phil Foden had a shot saved in the 6th minute."
+    },
+    {
+      "event_id": "evt_0030",
+      "minute": 7,
+      "expressive": "Enzo Fernandez completes a successful pass as play continues in the seventh minute.",
+      "simplified": "Enzo Fernandez completed a successful pass in the 7th minute."
+    },
+    {
+      "event_id": "evt_0031",
+      "minute": 7,
+      "expressive": "Enzo Fernandez threads a neat pass, keeping Chelsea's build-up ticking.",
+      "simplified": "Enzo Fernandez completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0032",
+      "minute": 7,
+      "expressive": "Cole Palmer finds a teammate with a crisp pass to maintain possession.",
+      "simplified": "Cole Palmer completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0033",
+      "minute": 8,
+      "expressive": "Nicolas Jackson links play with a short, accurate pass.",
+      "simplified": "Nicolas Jackson completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0034",
+      "minute": 8,
+      "expressive": "Wesley Fofana plays it out from the back with a composed pass.",
+      "simplified": "Wesley Fofana completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0035",
+      "minute": 8,
+      "expressive": "Bernardo Silva makes a successful tackle to stop the move.",
+      "simplified": "Bernardo Silva made a successful tackle for Manchester City."
+    },
+    {
+      "event_id": "evt_0036",
+      "minute": 8,
+      "expressive": "Bernardo Silva follows with a neat pass to keep City's possession.",
+      "simplified": "Bernardo Silva completed a successful pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0037",
+      "minute": 8,
+      "expressive": "Ruben Dias plays a composed pass to keep Manchester City moving.",
+      "simplified": "Ruben Dias completed a successful pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0038",
+      "minute": 8,
+      "expressive": "Moises Caicedo makes a solid tackle to break up the play.",
+      "simplified": "Moises Caicedo executed a successful tackle for Chelsea."
+    },
+    {
+      "event_id": "evt_0039",
+      "minute": 9,
+      "expressive": "Rodri reads the situation and intercepts the ball for City.",
+      "simplified": "Rodri made a successful interception for Manchester City."
+    },
+    {
+      "event_id": "evt_0040",
+      "minute": 9,
+      "expressive": "Phil Foden wins a corner for Manchester City.",
+      "simplified": "Phil Foden was awarded a corner for Manchester City."
+    },
+    {
+      "event_id": "evt_0041",
+      "minute": 9,
+      "expressive": "Rodri completes a crisp pass to a teammate.",
+      "simplified": "Rodri completed a successful pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0042",
+      "minute": 9,
+      "expressive": "Erling Haaland has a shot blocked, stopping that attack.",
+      "simplified": "Erling Haaland's shot was blocked for Manchester City."
+    },
+    {
+      "event_id": "evt_0043",
+      "minute": 10,
+      "expressive": "Levi Colwill's pass fails to find a teammate.",
+      "simplified": "Levi Colwill attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0044",
+      "minute": 10,
+      "expressive": "Enzo Fernandez makes a successful interception to win possession.",
+      "simplified": "Enzo Fernandez made a successful interception and gained possession."
+    },
+    {
+      "event_id": "evt_0045",
+      "minute": 10,
+      "expressive": "Noni Madueke completed a successful pass.",
+      "simplified": "Noni Madueke completed a pass."
+    },
+    {
+      "event_id": "evt_0046",
+      "minute": 11,
+      "expressive": "Moises Caicedo completed a successful pass.",
+      "simplified": "Moises Caicedo completed a pass."
+    },
+    {
+      "event_id": "evt_0047",
+      "minute": 11,
+      "expressive": "Reece James found a teammate with a successful pass.",
+      "simplified": "Reece James completed a pass."
+    },
+    {
+      "event_id": "evt_0048",
+      "minute": 11,
+      "expressive": "Bernardo Silva committed a foul for Manchester City, stopping play.",
+      "simplified": "Bernardo Silva committed a foul for Manchester City."
+    },
+    {
+      "event_id": "evt_0049",
+      "minute": 12,
+      "expressive": "Enzo Fernandez threads a neat pass as Chelsea keep possession.",
+      "simplified": "Enzo Fernandez completed a successful pass."
+    },
+    {
+      "event_id": "evt_0050",
+      "minute": 12,
+      "expressive": "Pedro Neto lays off a crisp pass, moving play along the flank.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0051",
+      "minute": 12,
+      "expressive": "Pedro Neto is awarded a corner for Chelsea.",
+      "simplified": "Pedro Neto was awarded a corner."
+    },
+    {
+      "event_id": "evt_0052",
+      "minute": 13,
+      "expressive": "Wesley Fofana plays a composed pass to a teammate.",
+      "simplified": "Wesley Fofana completed a successful pass."
+    },
+    {
+      "event_id": "evt_0053",
+      "minute": 13,
+      "expressive": "Cole Palmer connects with a sharp pass.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0054",
+      "minute": 13,
+      "expressive": "Noni Madueke delivers a tidy pass to keep the move alive.",
+      "simplified": "Noni Madueke completed a successful pass."
+    },
+    {
+      "event_id": "evt_0055",
+      "minute": 13,
+      "expressive": "Nicolas Jackson completes a successful pass.",
+      "simplified": "Nicolas Jackson completed a successful pass."
+    },
+    {
+      "event_id": "evt_0056",
+      "minute": 13,
+      "expressive": "Pedro Neto is awarded a corner for Chelsea.",
+      "simplified": "Pedro Neto was awarded a corner for Chelsea."
+    },
+    {
+      "event_id": "evt_0058",
+      "minute": 14,
+      "expressive": "Ruben Dias completes a successful pass.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0059",
+      "minute": 14,
+      "expressive": "Phil Foden successfully moves the ball with a pass.",
+      "simplified": "Phil Foden completed a successful pass."
+    },
+    {
+      "event_id": "evt_0060",
+      "minute": 15,
+      "expressive": "Jeremy Doku is awarded a corner for Manchester City.",
+      "simplified": "Jeremy Doku was awarded a corner for Manchester City."
+    },
+    {
+      "event_id": "evt_0061",
+      "minute": 15,
+      "expressive": "Kevin De Bruyne completes a successful pass.",
+      "simplified": "Kevin De Bruyne completed a successful pass."
+    },
+    {
+      "event_id": "evt_0062",
+      "minute": 15,
+      "expressive": "Marc Cucurella snaps into position and intercepts the ball cleanly.",
+      "simplified": "Marc Cucurella made a successful interception."
+    },
+    {
+      "event_id": "evt_0063",
+      "minute": 15,
+      "expressive": "Cole Palmer completes a neat pass.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0064",
+      "minute": 16,
+      "expressive": "Nicolas Jackson plays a composed pass.",
+      "simplified": "Nicolas Jackson completed a successful pass."
+    },
+    {
+      "event_id": "evt_0065",
+      "minute": 16,
+      "expressive": "Rodri is penalised for a foul, halting the move.",
+      "simplified": "Rodri committed a foul."
+    },
+    {
+      "event_id": "evt_0066",
+      "minute": 16,
+      "expressive": "Cole Palmer completes another precise pass.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0067",
+      "minute": 16,
+      "expressive": "Kevin De Bruyne is penalised for a foul.",
+      "simplified": "Kevin De Bruyne committed a foul."
+    },
+    {
+      "event_id": "evt_0068",
+      "minute": 16,
+      "expressive": "Pedro Neto attempts a pass, but it fails.",
+      "simplified": "Pedro Neto's pass failed."
+    },
+    {
+      "event_id": "evt_0069",
+      "minute": 17,
+      "expressive": "Nicolas Jackson is penalised for a foul, halting play briefly.",
+      "simplified": "Nicolas Jackson committed a foul."
+    },
+    {
+      "event_id": "evt_0070",
+      "minute": 17,
+      "expressive": "Jeremy Doku tries a pass, but it fails to connect.",
+      "simplified": "Jeremy Doku's pass failed."
+    },
+    {
+      "event_id": "evt_0071",
+      "minute": 17,
+      "expressive": "Reece James plays a crisp pass that reaches a teammate.",
+      "simplified": "Reece James' pass was successful."
+    },
+    {
+      "event_id": "evt_0072",
+      "minute": 17,
+      "expressive": "Noni Madueke delivers a successful pass.",
+      "simplified": "Noni Madueke's pass was successful."
+    },
+    {
+      "event_id": "evt_0073",
+      "minute": 17,
+      "expressive": "Marc Cucurella's pass doesn't come off.",
+      "simplified": "Marc Cucurella's pass failed."
+    },
+    {
+      "event_id": "evt_0074",
+      "minute": 18,
+      "expressive": "Gvardiol clips a neat pass forward, keeping City's build-up ticking.",
+      "simplified": "Josko Gvardiol completed a pass in the 18th minute."
+    },
+    {
+      "event_id": "evt_0075",
+      "minute": 18,
+      "expressive": "Walker finds a teammate with a crisp pass along the right.",
+      "simplified": "Kyle Walker completed a pass in the 18th minute."
+    },
+    {
+      "event_id": "evt_0076",
+      "minute": 18,
+      "expressive": "Doku threads a swift pass into space to continue the move.",
+      "simplified": "Jeremy Doku completed a pass in the 18th minute."
+    },
+    {
+      "event_id": "evt_0057",
+      "minute": 18,
+      "expressive": "Cole Palmer fires Chelsea in front with a goal; the score is 1–0.",
+      "simplified": "Cole Palmer scored for Chelsea, making the score 1–0."
+    },
+    {
+      "event_id": "evt_0077",
+      "minute": 18,
+      "expressive": "Fernandez snags the ball back with a clean tackle.",
+      "simplified": "Enzo Fernandez made a successful tackle in the 18th minute."
+    },
+    {
+      "event_id": "evt_0078",
+      "minute": 18,
+      "expressive": "Walker executes a solid tackle to halt Chelsea's advance.",
+      "simplified": "Kyle Walker made a successful tackle in the 18th minute."
+    },
+    {
+      "event_id": "evt_0079",
+      "minute": 19,
+      "expressive": "Kevin De Bruyne plays a neat, successful pass to keep the ball moving.",
+      "simplified": "Kevin De Bruyne completed a successful pass."
+    },
+    {
+      "event_id": "evt_0080",
+      "minute": 19,
+      "expressive": "Phil Foden's pass fails to connect, halting the move.",
+      "simplified": "Phil Foden's pass failed."
+    },
+    {
+      "event_id": "evt_0081",
+      "minute": 19,
+      "expressive": "John Stones makes a successful tackle and wins possession back.",
+      "simplified": "John Stones made a successful tackle."
+    },
+    {
+      "event_id": "evt_0082",
+      "minute": 20,
+      "expressive": "Josko Gvardiol delivers a successful pass to continue the play.",
+      "simplified": "Josko Gvardiol completed a successful pass."
+    },
+    {
+      "event_id": "evt_0083",
+      "minute": 20,
+      "expressive": "Pedro Neto commits a foul against Manchester City.",
+      "simplified": "Pedro Neto committed a foul for Chelsea."
+    },
+    {
+      "event_id": "evt_0084",
+      "minute": 20,
+      "expressive": "John Stones plays a successful pass to advance the move.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0085",
+      "minute": 20,
+      "expressive": "Ruben Dias threads a precise pass across the pitch, keeping City's momentum flowing.",
+      "simplified": "Ruben Dias completed a pass."
+    },
+    {
+      "event_id": "evt_0086",
+      "minute": 20,
+      "expressive": "Erling Haaland lays the ball off neatly, moving play forward.",
+      "simplified": "Erling Haaland completed a pass."
+    },
+    {
+      "event_id": "evt_0087",
+      "minute": 20,
+      "expressive": "Haaland clips a short pass to a teammate, keeping possession ticking.",
+      "simplified": "Erling Haaland completed a pass."
+    },
+    {
+      "event_id": "evt_0088",
+      "minute": 21,
+      "expressive": "Jeremy Doku nudges the ball along to a teammate with intent.",
+      "simplified": "Jeremy Doku completed a pass."
+    },
+    {
+      "event_id": "evt_0089",
+      "minute": 21,
+      "expressive": "Rodri sprays a measured pass out wide, steadying City's build-up.",
+      "simplified": "Rodri completed a pass."
+    },
+    {
+      "event_id": "evt_0090",
+      "minute": 21,
+      "expressive": "Doku's quick pass keeps the move alive.",
+      "simplified": "Jeremy Doku completed a pass."
+    },
+    {
+      "event_id": "evt_0091",
+      "minute": 21,
+      "expressive": "Phil Foden tries a pass but it breaks down, losing possession.",
+      "simplified": "Phil Foden attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0092",
+      "minute": 21,
+      "expressive": "Moises Caicedo completes a crisp pass to keep Chelsea moving.",
+      "simplified": "Moises Caicedo completed a successful pass."
+    },
+    {
+      "event_id": "evt_0093",
+      "minute": 21,
+      "expressive": "Rodri times a clean tackle to halt the move.",
+      "simplified": "Rodri made a successful tackle."
+    },
+    {
+      "event_id": "evt_0094",
+      "minute": 22,
+      "expressive": "Jeremy Doku completes a quick pass to progress the play.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0095",
+      "minute": 22,
+      "expressive": "Erling Haaland completes a short pass to a teammate.",
+      "simplified": "Erling Haaland completed a successful pass."
+    },
+    {
+      "event_id": "evt_0096",
+      "minute": 22,
+      "expressive": "Marc Cucurella makes a decisive tackle to regain possession.",
+      "simplified": "Marc Cucurella made a successful tackle."
+    },
+    {
+      "event_id": "evt_0097",
+      "minute": 23,
+      "expressive": "Cole Palmer delivers a crisp, successful pass that finds a teammate.",
+      "simplified": "Cole Palmer completed a pass."
+    },
+    {
+      "event_id": "evt_0098",
+      "minute": 23,
+      "expressive": "Marc Cucurella attempts a pass but it fails to find a teammate.",
+      "simplified": "Marc Cucurella's pass was unsuccessful."
+    },
+    {
+      "event_id": "evt_0099",
+      "minute": 23,
+      "expressive": "Rodri picks out a teammate with a composed, accurate pass.",
+      "simplified": "Rodri completed a pass."
+    },
+    {
+      "event_id": "evt_0100",
+      "minute": 23,
+      "expressive": "Rodri plays another precise pass to keep play moving.",
+      "simplified": "Rodri completed another pass."
+    },
+    {
+      "event_id": "evt_0101",
+      "minute": 23,
+      "expressive": "Reece James times his tackle well and wins the ball.",
+      "simplified": "Reece James made a successful tackle."
+    },
+    {
+      "event_id": "evt_0102",
+      "minute": 24,
+      "expressive": "Reece James follows up with a calm, successful pass.",
+      "simplified": "Reece James completed a pass."
+    },
+    {
+      "event_id": "evt_0103",
+      "minute": 24,
+      "expressive": "Levi Colwill threads a tidy pass to keep Chelsea moving forward.",
+      "simplified": "Levi Colwill completed a pass for Chelsea in the 24th minute."
+    },
+    {
+      "event_id": "evt_0104",
+      "minute": 24,
+      "expressive": "Bernardo Silva reads the play and snatches possession for Manchester City.",
+      "simplified": "Bernardo Silva made a successful interception for Manchester City in the 24th minute."
+    },
+    {
+      "event_id": "evt_0105",
+      "minute": 25,
+      "expressive": "Kevin De Bruyne picks out a neat pass to progress City's attack.",
+      "simplified": "Kevin De Bruyne completed a pass for Manchester City in the 25th minute."
+    },
+    {
+      "event_id": "evt_0106",
+      "minute": 25,
+      "expressive": "Marc Cucurella wins a strong tackle to halt the danger.",
+      "simplified": "Marc Cucurella completed a successful tackle for Chelsea in the 25th minute."
+    },
+    {
+      "event_id": "evt_0107",
+      "minute": 25,
+      "expressive": "Kevin De Bruyne intercepts the ball to regain possession for Manchester City.",
+      "simplified": "Kevin De Bruyne made a successful interception for Manchester City in the 25th minute."
+    },
+    {
+      "event_id": "evt_0108",
+      "minute": 26,
+      "expressive": "Jeremy Doku delivers a quick pass to keep City's momentum moving.",
+      "simplified": "Jeremy Doku completed a pass for Manchester City in the 26th minute."
+    },
+    {
+      "event_id": "evt_0109",
+      "minute": 26,
+      "expressive": "Marc Cucurella nips in and wins a clean tackle for Chelsea, halting the move.",
+      "simplified": "Marc Cucurella made a successful tackle."
+    },
+    {
+      "event_id": "evt_0110",
+      "minute": 26,
+      "expressive": "Josko Gvardiol slides in and wins a tidy tackle for Manchester City.",
+      "simplified": "Josko Gvardiol made a successful tackle."
+    },
+    {
+      "event_id": "evt_0111",
+      "minute": 26,
+      "expressive": "John Stones plays a neat pass that keeps Manchester City's build-up moving.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0112",
+      "minute": 26,
+      "expressive": "Rodri calmly finds a teammate with a successful pass.",
+      "simplified": "Rodri completed a successful pass."
+    },
+    {
+      "event_id": "evt_0113",
+      "minute": 27,
+      "expressive": "Erling Haaland plays a sharp pass to a teammate, linking up play for Manchester City.",
+      "simplified": "Erling Haaland completed a successful pass."
+    },
+    {
+      "event_id": "evt_0114",
+      "minute": 27,
+      "expressive": "Haaland threads another tidy pass to a nearby teammate.",
+      "simplified": "Erling Haaland completed a successful pass."
+    },
+    {
+      "event_id": "evt_0115",
+      "minute": 27,
+      "expressive": "Jeremy Doku plays a neat, successful pass to keep Manchester City moving the ball forward.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0116",
+      "minute": 27,
+      "expressive": "Erling Haaland was awarded a corner for Manchester City, giving them a set-piece chance.",
+      "simplified": "A corner was awarded to Manchester City, credited to Erling Haaland."
+    },
+    {
+      "event_id": "evt_0117",
+      "minute": 28,
+      "expressive": "Phil Foden makes a tidy, successful pass to maintain City’s possession.",
+      "simplified": "Phil Foden completed a successful pass."
+    },
+    {
+      "event_id": "evt_0118",
+      "minute": 28,
+      "expressive": "Jeremy Doku plays another successful pass to retain possession for Manchester City.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0119",
+      "minute": 28,
+      "expressive": "Kyle Walker delivers a quick, successful pass.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0120",
+      "minute": 28,
+      "expressive": "Rodri keeps play flowing with a composed, successful pass.",
+      "simplified": "Rodri completed a successful pass."
+    },
+    {
+      "event_id": "evt_0121",
+      "minute": 28,
+      "expressive": "Bernardo Silva's pass doesn't reach its target, breaking Manchester City's move.",
+      "simplified": "Bernardo Silva attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0122",
+      "minute": 29,
+      "expressive": "Pedro Neto's pass goes astray, ending Chelsea's move.",
+      "simplified": "Pedro Neto's pass failed to find a teammate."
+    },
+    {
+      "event_id": "evt_0123",
+      "minute": 29,
+      "expressive": "Wesley Fofana commits a foul, stopping play.",
+      "simplified": "Wesley Fofana committed a foul."
+    },
+    {
+      "event_id": "evt_0124",
+      "minute": 29,
+      "expressive": "Erling Haaland plays a successful pass, keeping City's attack moving.",
+      "simplified": "Erling Haaland completed a pass."
+    },
+    {
+      "event_id": "evt_0125",
+      "minute": 30,
+      "expressive": "Enzo Fernandez times a successful tackle to regain control for Chelsea.",
+      "simplified": "Enzo Fernandez made a successful tackle."
+    },
+    {
+      "event_id": "evt_0126",
+      "minute": 30,
+      "expressive": "Bernardo Silva executes a tidy tackle, disrupting Chelsea's advance.",
+      "simplified": "Bernardo Silva completed a successful tackle."
+    },
+    {
+      "event_id": "evt_0127",
+      "minute": 30,
+      "expressive": "Moises Caicedo makes a crisp, successful interception to halt the opposition's move.",
+      "simplified": "Moises Caicedo successfully intercepted the ball."
+    },
+    {
+      "event_id": "evt_0128",
+      "minute": 31,
+      "expressive": "Rodri commits a foul for Manchester City, stopping play briefly.",
+      "simplified": "Rodri committed a foul."
+    },
+    {
+      "event_id": "evt_0129",
+      "minute": 31,
+      "expressive": "Pedro Neto completes a tidy pass to keep Chelsea progressing.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0130",
+      "minute": 31,
+      "expressive": "Levi Colwill plays a composed, successful pass under no apparent pressure.",
+      "simplified": "Levi Colwill completed a successful pass."
+    },
+    {
+      "event_id": "evt_0131",
+      "minute": 32,
+      "expressive": "Cole Palmer delivers a crisp, successful pass to a teammate.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0132",
+      "minute": 32,
+      "expressive": "Pedro Neto's pass breaks down and is unsuccessful.",
+      "simplified": "Pedro Neto's pass was unsuccessful."
+    },
+    {
+      "event_id": "evt_0133",
+      "minute": 32,
+      "expressive": "Ruben Dias plays a neat, successful pass.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0134",
+      "minute": 33,
+      "expressive": "Kevin De Bruyne shoots and the attempt is saved.",
+      "simplified": "Kevin De Bruyne's shot was saved."
+    },
+    {
+      "event_id": "evt_0135",
+      "minute": 33,
+      "expressive": "Cole Palmer's shot is blocked.",
+      "simplified": "Cole Palmer had a shot blocked."
+    },
+    {
+      "event_id": "evt_0136",
+      "minute": 33,
+      "expressive": "Erling Haaland wins a corner for Manchester City.",
+      "simplified": "Erling Haaland was awarded a corner kick."
+    },
+    {
+      "event_id": "evt_0137",
+      "minute": 33,
+      "expressive": "Levi Colwill makes a successful tackle.",
+      "simplified": "Levi Colwill completed a successful tackle."
+    },
+    {
+      "event_id": "evt_0138",
+      "minute": 33,
+      "expressive": "Ruben Dias commits a foul.",
+      "simplified": "Ruben Dias committed a foul."
+    },
+    {
+      "event_id": "evt_0139",
+      "minute": 34,
+      "expressive": "Marc Cucurella threads a neat pass, keeping play moving.",
+      "simplified": "Marc Cucurella completed a successful pass."
+    },
+    {
+      "event_id": "evt_0140",
+      "minute": 34,
+      "expressive": "Cole Palmer clips a crisp pass into space.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0141",
+      "minute": 34,
+      "expressive": "Levi Colwill calmly plays a short, successful pass.",
+      "simplified": "Levi Colwill completed a successful pass."
+    },
+    {
+      "event_id": "evt_0142",
+      "minute": 35,
+      "expressive": "Pedro Neto completes a tidy pass to a teammate.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0143",
+      "minute": 35,
+      "expressive": "Reece James rolls a precise pass down the wing.",
+      "simplified": "Reece James completed a successful pass."
+    },
+    {
+      "event_id": "evt_0144",
+      "minute": 35,
+      "expressive": "Wesley Fofana's pass breaks down and is unsuccessful.",
+      "simplified": "Wesley Fofana attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0145",
+      "minute": 36,
+      "expressive": "Kyle Walker's pass fails and City lose possession.",
+      "simplified": "Kyle Walker's pass failed; possession was lost."
+    },
+    {
+      "event_id": "evt_0146",
+      "minute": 36,
+      "expressive": "Pedro Neto completes a successful pass for Chelsea.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0154",
+      "minute": 36,
+      "expressive": "Erling Haaland scores to level the match; the score is 1–1.",
+      "simplified": "Erling Haaland scored, making the score 1–1."
+    },
+    {
+      "event_id": "evt_0147",
+      "minute": 36,
+      "expressive": "Noni Madueke's pass breaks down and Chelsea lose the ball.",
+      "simplified": "Noni Madueke's pass failed and possession was lost."
+    },
+    {
+      "event_id": "evt_0148",
+      "minute": 36,
+      "expressive": "Jeremy Doku completes a pass for Manchester City.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0149",
+      "minute": 37,
+      "expressive": "Reece James makes a successful interception for Chelsea.",
+      "simplified": "Reece James made a successful interception."
+    },
+    {
+      "event_id": "evt_0150",
+      "minute": 37,
+      "expressive": "Rodri makes a tidy, well-timed tackle to win the ball back for Manchester City.",
+      "simplified": "Rodri successfully completes a tackle for Manchester City."
+    },
+    {
+      "event_id": "evt_0151",
+      "minute": 37,
+      "expressive": "John Stones completes a neat pass to keep play moving.",
+      "simplified": "John Stones successfully completes a pass."
+    },
+    {
+      "event_id": "evt_0152",
+      "minute": 38,
+      "expressive": "Stones follows up with another accurate pass, calmly recycling possession.",
+      "simplified": "John Stones completes another successful pass."
+    },
+    {
+      "event_id": "evt_0153",
+      "minute": 38,
+      "expressive": "Ruben Dias plays a composed short pass out of defence.",
+      "simplified": "Ruben Dias successfully completes a pass."
+    },
+    {
+      "event_id": "evt_0155",
+      "minute": 38,
+      "expressive": "Noni Madueke delivers a controlled pass for Chelsea.",
+      "simplified": "Noni Madueke successfully completes a pass."
+    },
+    {
+      "event_id": "evt_0156",
+      "minute": 38,
+      "expressive": "Reece James sends a precise pass along the flank.",
+      "simplified": "Reece James successfully completes a pass."
+    },
+    {
+      "event_id": "evt_0157",
+      "minute": 39,
+      "expressive": "Jackson's pass misfires, halting Chelsea's build-up.",
+      "simplified": "Nicolas Jackson attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0158",
+      "minute": 39,
+      "expressive": "Levi Colwill reads the play and intercepts to stop the move.",
+      "simplified": "Levi Colwill made a successful interception."
+    },
+    {
+      "event_id": "evt_0159",
+      "minute": 39,
+      "expressive": "Bernardo Silva pounces on the ball with a neat interception.",
+      "simplified": "Bernardo Silva made a successful interception."
+    },
+    {
+      "event_id": "evt_0160",
+      "minute": 39,
+      "expressive": "Kevin De Bruyne shoots but the attempt is blocked.",
+      "simplified": "Kevin De Bruyne's shot was blocked."
+    },
+    {
+      "event_id": "evt_0161",
+      "minute": 40,
+      "expressive": "Gvardiol times his challenge well and wins the ball.",
+      "simplified": "Josko Gvardiol made a successful tackle."
+    },
+    {
+      "event_id": "evt_0162",
+      "minute": 40,
+      "expressive": "Gvardiol immediately plays it on with a successful pass.",
+      "simplified": "Josko Gvardiol completed a successful pass."
+    },
+    {
+      "event_id": "evt_0163",
+      "minute": 40,
+      "expressive": "Kyle Walker threads a neat pass to a teammate.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0164",
+      "minute": 40,
+      "expressive": "Bernardo Silva sprays a crisp pass across the pitch.",
+      "simplified": "Bernardo Silva completed a successful pass."
+    },
+    {
+      "event_id": "evt_0165",
+      "minute": 40,
+      "expressive": "Enzo Fernandez steps in and makes a clean interception for Chelsea.",
+      "simplified": "Enzo Fernandez made a successful interception."
+    },
+    {
+      "event_id": "evt_0166",
+      "minute": 40,
+      "expressive": "Noni Madueke slips a short pass to a teammate.",
+      "simplified": "Noni Madueke completed a successful pass."
+    },
+    {
+      "event_id": "evt_0167",
+      "minute": 41,
+      "expressive": "Nicolas Jackson wins a corner for Chelsea.",
+      "simplified": "Nicolas Jackson was awarded a corner kick."
+    },
+    {
+      "event_id": "evt_0168",
+      "minute": 41,
+      "expressive": "Pedro Neto plays a neat, accurate pass.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0169",
+      "minute": 41,
+      "expressive": "Levi Colwill completed a neat pass to a teammate, keeping Chelsea's build-up moving.",
+      "simplified": "Levi Colwill completed a successful pass."
+    },
+    {
+      "event_id": "evt_0170",
+      "minute": 41,
+      "expressive": "Jeremy Doku committed a foul, stopping play for a brief moment.",
+      "simplified": "Jeremy Doku committed a foul."
+    },
+    {
+      "event_id": "evt_0171",
+      "minute": 41,
+      "expressive": "Marc Cucurella played a crisp pass to maintain Chelsea possession.",
+      "simplified": "Marc Cucurella completed a successful pass."
+    },
+    {
+      "event_id": "evt_0172",
+      "minute": 41,
+      "expressive": "John Stones made a successful tackle and won the ball back.",
+      "simplified": "John Stones made a successful tackle."
+    },
+    {
+      "event_id": "evt_0173",
+      "minute": 42,
+      "expressive": "Kevin De Bruyne delivered a sharp pass into Manchester City's midfield.",
+      "simplified": "Kevin De Bruyne completed a successful pass."
+    },
+    {
+      "event_id": "evt_0174",
+      "minute": 42,
+      "expressive": "Josko Gvardiol moved the ball on with a short, successful pass.",
+      "simplified": "Josko Gvardiol completed a successful pass."
+    },
+    {
+      "event_id": "evt_0175",
+      "minute": 42,
+      "expressive": "Caicedo times a clean tackle perfectly, stopping the opponent's move.",
+      "simplified": "Moises Caicedo made a successful tackle."
+    },
+    {
+      "event_id": "evt_0176",
+      "minute": 43,
+      "expressive": "Jeremy Doku is penalized for a foul, halting play briefly.",
+      "simplified": "Jeremy Doku committed a foul."
+    },
+    {
+      "event_id": "evt_0177",
+      "minute": 43,
+      "expressive": "Moises Caicedo rolls a successful pass to a teammate.",
+      "simplified": "Moises Caicedo completed a pass."
+    },
+    {
+      "event_id": "evt_0178",
+      "minute": 43,
+      "expressive": "Caicedo's shot is saved by the goalkeeper, leaving the score 1–1.",
+      "simplified": "Moises Caicedo's shot was saved; the score remained 1–1."
+    },
+    {
+      "event_id": "evt_0179",
+      "minute": 43,
+      "expressive": "Phil Foden completes a pass to keep the move alive.",
+      "simplified": "Phil Foden completed a pass."
+    },
+    {
+      "event_id": "evt_0180",
+      "minute": 43,
+      "expressive": "Josko Gvardiol delivers a composed, successful pass.",
+      "simplified": "Josko Gvardiol completed a pass."
+    },
+    {
+      "event_id": "evt_0181",
+      "minute": 44,
+      "expressive": "Gvardiol plays a composed pass, helping City's build-up.",
+      "simplified": "Josko Gvardiol completed a pass for Manchester City in the 44th minute."
+    },
+    {
+      "event_id": "evt_0182",
+      "minute": 44,
+      "expressive": "Caicedo makes a sharp interception to halt the opponent's move.",
+      "simplified": "Moises Caicedo made a successful interception for Chelsea in the 44th minute."
+    },
+    {
+      "event_id": "evt_0183",
+      "minute": 44,
+      "expressive": "Caicedo quickly plays a neat pass to keep Chelsea on the ball.",
+      "simplified": "Moises Caicedo completed a pass for Chelsea in the 44th minute."
+    },
+    {
+      "event_id": "evt_0184",
+      "minute": 45,
+      "expressive": "Doku commits a foul, stopping play briefly.",
+      "simplified": "Jeremy Doku committed a foul for Manchester City in the 45th minute."
+    },
+    {
+      "event_id": "evt_0185",
+      "minute": 45,
+      "expressive": "Stones intercepts to regain possession for Manchester City.",
+      "simplified": "John Stones made a successful interception for Manchester City in the 45th minute."
+    },
+    {
+      "event_id": "evt_0186",
+      "minute": 45,
+      "expressive": "Foden completes a crisp pass as play continues.",
+      "simplified": "Phil Foden completed a pass for Manchester City in the 45th minute."
+    },
+    {
+      "event_id": "evt_0187",
+      "minute": 45,
+      "expressive": "Josko Gvardiol's pass fails to find a teammate, halting City's move.",
+      "simplified": "Josko Gvardiol attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0188",
+      "minute": 46,
+      "expressive": "Jeremy Doku committed a foul, interrupting play.",
+      "simplified": "Jeremy Doku committed a foul."
+    },
+    {
+      "event_id": "evt_0189",
+      "minute": 46,
+      "expressive": "Marc Cucurella completes a pass to keep Chelsea moving.",
+      "simplified": "Marc Cucurella completed a successful pass."
+    },
+    {
+      "event_id": "evt_0190",
+      "minute": 46,
+      "expressive": "Cole Palmer completes a successful pass as Chelsea retain possession.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0191",
+      "minute": 46,
+      "expressive": "Reece James completes a pass, maintaining Chelsea's control of the ball.",
+      "simplified": "Reece James completed a successful pass."
+    },
+    {
+      "event_id": "evt_0192",
+      "minute": 46,
+      "expressive": "Moises Caicedo has a corner awarded to Chelsea, creating a set-piece chance.",
+      "simplified": "A corner was awarded to Chelsea, credited to Moises Caicedo."
+    },
+    {
+      "event_id": "evt_0193",
+      "minute": 47,
+      "expressive": "John Stones times his tackle perfectly and wins the ball cleanly.",
+      "simplified": "John Stones made a successful tackle."
+    },
+    {
+      "event_id": "evt_0194",
+      "minute": 47,
+      "expressive": "Ruben Dias releases a crisp pass to keep play moving.",
+      "simplified": "Ruben Dias completed a pass."
+    },
+    {
+      "event_id": "evt_0195",
+      "minute": 47,
+      "expressive": "Kyle Walker completes a quick pass along the touchline.",
+      "simplified": "Kyle Walker completed a pass."
+    },
+    {
+      "event_id": "evt_0196",
+      "minute": 48,
+      "expressive": "Levi Colwill reads the play and intercepts the pass.",
+      "simplified": "Levi Colwill intercepted the ball."
+    },
+    {
+      "event_id": "evt_0197",
+      "minute": 48,
+      "expressive": "Bernardo Silva commits a foul, bringing play to a halt.",
+      "simplified": "Bernardo Silva committed a foul."
+    },
+    {
+      "event_id": "evt_0198",
+      "minute": 48,
+      "expressive": "Reece James attempts a pass but it fails to connect.",
+      "simplified": "Reece James's pass failed."
+    },
+    {
+      "event_id": "evt_0199",
+      "minute": 48,
+      "expressive": "Kyle Walker plays a neat pass, keeping City's move ticking.",
+      "simplified": "Kyle Walker completed a successful pass for Manchester City in the 48th minute."
+    },
+    {
+      "event_id": "evt_0200",
+      "minute": 49,
+      "expressive": "Jeremy Doku flashes a sharp pass to keep the attack moving.",
+      "simplified": "Jeremy Doku completed a successful pass for Manchester City in the 49th minute."
+    },
+    {
+      "event_id": "evt_0201",
+      "minute": 49,
+      "expressive": "Erling Haaland lays off a tidy pass in midfield.",
+      "simplified": "Erling Haaland completed a successful pass for Manchester City in the 49th minute."
+    },
+    {
+      "event_id": "evt_0202",
+      "minute": 49,
+      "expressive": "Levi Colwill intercepts a pass and breaks up City's attack.",
+      "simplified": "Levi Colwill made a successful interception for Chelsea in the 49th minute."
+    },
+    {
+      "event_id": "evt_0203",
+      "minute": 49,
+      "expressive": "Moises Caicedo calmly advances play with a successful pass.",
+      "simplified": "Moises Caicedo completed a successful pass for Chelsea in the 49th minute."
+    },
+    {
+      "event_id": "evt_0204",
+      "minute": 49,
+      "expressive": "Erling Haaland committed a foul, halting play.",
+      "simplified": "Erling Haaland committed a foul for Manchester City in the 49th minute."
+    },
+    {
+      "event_id": "evt_0205",
+      "minute": 50,
+      "expressive": "Enzo Fernandez plays a neat, successful pass.",
+      "simplified": "Enzo Fernandez completed a pass."
+    },
+    {
+      "event_id": "evt_0206",
+      "minute": 50,
+      "expressive": "Wesley Fofana shifts the ball with a composed pass.",
+      "simplified": "Wesley Fofana completed a pass."
+    },
+    {
+      "event_id": "evt_0207",
+      "minute": 50,
+      "expressive": "Erling Haaland halted play by committing a foul.",
+      "simplified": "Erling Haaland committed a foul."
+    },
+    {
+      "event_id": "evt_0208",
+      "minute": 51,
+      "expressive": "Pedro Neto plays a crisp pass forward.",
+      "simplified": "Pedro Neto completed a pass."
+    },
+    {
+      "event_id": "evt_0209",
+      "minute": 51,
+      "expressive": "Noni Madueke delivers a neat, successful pass.",
+      "simplified": "Noni Madueke completed a pass."
+    },
+    {
+      "event_id": "evt_0210",
+      "minute": 51,
+      "expressive": "Noni Madueke attempted a pass that failed.",
+      "simplified": "Noni Madueke's pass was unsuccessful."
+    },
+    {
+      "event_id": "evt_0211",
+      "minute": 51,
+      "expressive": "Gvardiol's pass goes astray, cutting short Manchester City's move.",
+      "simplified": "Josko Gvardiol attempted a pass that failed for Manchester City."
+    },
+    {
+      "event_id": "evt_0212",
+      "minute": 52,
+      "expressive": "Colwill sends a composed pass to a teammate, keeping Chelsea moving.",
+      "simplified": "Levi Colwill completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0213",
+      "minute": 52,
+      "expressive": "Madueke threads a tidy pass into space, progressing Chelsea's play.",
+      "simplified": "Noni Madueke completed a pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0214",
+      "minute": 52,
+      "expressive": "Jackson plays a short, accurate pass to a nearby teammate.",
+      "simplified": "Nicolas Jackson completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0215",
+      "minute": 53,
+      "expressive": "Cucurella delivers a simple pass down the line.",
+      "simplified": "Marc Cucurella completed a pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0216",
+      "minute": 53,
+      "expressive": "Palmer threads a controlled pass into midfield, steadying Chelsea's possession.",
+      "simplified": "Cole Palmer completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0217",
+      "minute": 53,
+      "expressive": "Noni Madueke finds a teammate with a crisp pass, sustaining Chelsea's momentum.",
+      "simplified": "Noni Madueke completed a pass in the 53rd minute."
+    },
+    {
+      "event_id": "evt_0218",
+      "minute": 54,
+      "expressive": "Enzo Fernandez threads a smooth pass, keeping Chelsea on the front foot.",
+      "simplified": "Enzo Fernandez completed a pass in the 54th minute."
+    },
+    {
+      "event_id": "evt_0219",
+      "minute": 54,
+      "expressive": "Pedro Neto links play with a tidy pass, maintaining Chelsea's possession.",
+      "simplified": "Pedro Neto completed a pass in the 54th minute."
+    },
+    {
+      "event_id": "evt_0220",
+      "minute": 54,
+      "expressive": "Noni Madueke's pass was unsuccessful, stopping Chelsea's immediate progress.",
+      "simplified": "Noni Madueke attempted a pass that failed in the 54th minute."
+    },
+    {
+      "event_id": "evt_0221",
+      "minute": 54,
+      "expressive": "John Stones plays a composed pass to relieve pressure.",
+      "simplified": "John Stones completed a pass in the 54th minute."
+    },
+    {
+      "event_id": "evt_0222",
+      "minute": 54,
+      "expressive": "Enzo Fernandez reads the play and intercepts, halting City's move.",
+      "simplified": "Enzo Fernandez made an interception in the 54th minute."
+    },
+    {
+      "event_id": "evt_0223",
+      "minute": 55,
+      "expressive": "Bernardo Silva makes a crisp, successful tackle to win the ball.",
+      "simplified": "Bernardo Silva made a successful tackle."
+    },
+    {
+      "event_id": "evt_0224",
+      "minute": 55,
+      "expressive": "Ruben Dias plays a neat, successful pass to keep the move flowing.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0225",
+      "minute": 55,
+      "expressive": "Jeremy Doku delivers a quick, successful pass into play.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0226",
+      "minute": 55,
+      "expressive": "Phil Foden plays a tidy, successful pass to a teammate.",
+      "simplified": "Phil Foden completed a successful pass."
+    },
+    {
+      "event_id": "evt_0227",
+      "minute": 55,
+      "expressive": "Kyle Walker sends a sharp, successful pass downfield.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0228",
+      "minute": 55,
+      "expressive": "John Stones moves the ball on with a composed, successful pass.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0229",
+      "minute": 56,
+      "expressive": "Josko Gvardiol completes a tidy pass to keep the attack moving.",
+      "simplified": "Josko Gvardiol completed a successful pass."
+    },
+    {
+      "event_id": "evt_0230",
+      "minute": 56,
+      "expressive": "Kyle Walker's pass misses its target.",
+      "simplified": "Kyle Walker attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0231",
+      "minute": 56,
+      "expressive": "Nicolas Jackson completes a neat pass into space.",
+      "simplified": "Nicolas Jackson completed a successful pass."
+    },
+    {
+      "event_id": "evt_0232",
+      "minute": 57,
+      "expressive": "Reece James' pass failed to find a teammate.",
+      "simplified": "Reece James attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0233",
+      "minute": 57,
+      "expressive": "Erling Haaland threads a crisp pass forward.",
+      "simplified": "Erling Haaland completed a successful pass."
+    },
+    {
+      "event_id": "evt_0240",
+      "minute": 57,
+      "expressive": "Phil Foden scores for Manchester City, making the score 1–2 in the 57th minute.",
+      "simplified": "Phil Foden scored in the 57th minute to make the score 1–2."
+    },
+    {
+      "event_id": "evt_0234",
+      "minute": 57,
+      "expressive": "John Stones' forward pass fails, halting Manchester City's move.",
+      "simplified": "John Stones' pass failed in the 57th minute."
+    },
+    {
+      "event_id": "evt_0235",
+      "minute": 58,
+      "expressive": "Pedro Neto's pass goes astray, ending Chelsea's possession.",
+      "simplified": "Pedro Neto's pass failed in the 58th minute."
+    },
+    {
+      "event_id": "evt_0236",
+      "minute": 58,
+      "expressive": "Kevin De Bruyne is awarded a corner for Manchester City.",
+      "simplified": "Kevin De Bruyne won a corner in the 58th minute."
+    },
+    {
+      "event_id": "evt_0237",
+      "minute": 58,
+      "expressive": "Kyle Walker completes a tidy pass.",
+      "simplified": "Kyle Walker completed a pass in the 58th minute."
+    },
+    {
+      "event_id": "evt_0238",
+      "minute": 58,
+      "expressive": "Josko Gvardiol delivers a successful pass.",
+      "simplified": "Josko Gvardiol completed a pass in the 58th minute."
+    },
+    {
+      "event_id": "evt_0239",
+      "minute": 59,
+      "expressive": "Jeremy Doku slips a neat pass as play continues.",
+      "simplified": "Jeremy Doku completed a pass in the 59th minute."
+    },
+    {
+      "event_id": "evt_0241",
+      "minute": 59,
+      "expressive": "Marc Cucurella completes a neat pass, maintaining Chelsea's possession.",
+      "simplified": "Marc Cucurella completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0242",
+      "minute": 60,
+      "expressive": "Kevin De Bruyne times a clean tackle to win the ball back.",
+      "simplified": "Kevin De Bruyne made a successful tackle for Manchester City."
+    },
+    {
+      "event_id": "evt_0243",
+      "minute": 60,
+      "expressive": "Nicolas Jackson is penalised for a foul, stopping play for Chelsea.",
+      "simplified": "Nicolas Jackson committed a foul for Chelsea."
+    },
+    {
+      "event_id": "evt_0244",
+      "minute": 60,
+      "expressive": "Josko Gvardiol's pass was unsuccessful, interrupting Manchester City's move.",
+      "simplified": "Josko Gvardiol's pass was unsuccessful for Manchester City."
+    },
+    {
+      "event_id": "evt_0245",
+      "minute": 60,
+      "expressive": "Levi Colwill plays a composed pass that keeps Chelsea in control of possession.",
+      "simplified": "Levi Colwill completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0246",
+      "minute": 60,
+      "expressive": "Colwill follows up with another accurate pass, sustaining Chelsea's attack.",
+      "simplified": "Levi Colwill completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0247",
+      "minute": 61,
+      "expressive": "Cole Palmer finds a teammate with a crisp pass, keeping Chelsea moving into the next phase of play.",
+      "simplified": "Cole Palmer completed a successful pass for Chelsea in the 61st minute."
+    },
+    {
+      "event_id": "evt_0248",
+      "minute": 61,
+      "expressive": "Cole Palmer's shot was blocked, stopping Chelsea's attempt on goal.",
+      "simplified": "Cole Palmer's shot was blocked in the 61st minute."
+    },
+    {
+      "event_id": "evt_0249",
+      "minute": 61,
+      "expressive": "Phil Foden slipped a tidy pass to a teammate, helping Manchester City maintain their momentum.",
+      "simplified": "Phil Foden completed a pass for Manchester City in the 61st minute."
+    },
+    {
+      "event_id": "evt_0250",
+      "minute": 61,
+      "expressive": "Jeremy Doku delivered a precise pass to a teammate, keeping City's move alive.",
+      "simplified": "Jeremy Doku completed a successful pass for Manchester City in the 61st minute."
+    },
+    {
+      "event_id": "evt_0251",
+      "minute": 61,
+      "expressive": "Marc Cucurella made a successful tackle to halt the play.",
+      "simplified": "Marc Cucurella completed a successful tackle for Chelsea in the 61st minute."
+    },
+    {
+      "event_id": "evt_0252",
+      "minute": 62,
+      "expressive": "Wesley Fofana calmly played a short pass to retain possession.",
+      "simplified": "Wesley Fofana completed a pass for Chelsea in the 62nd minute."
+    },
+    {
+      "event_id": "evt_0253",
+      "minute": 62,
+      "expressive": "Pedro Neto surges forward and fires, but his shot is blocked and the chance is stopped.",
+      "simplified": "Pedro Neto's shot was blocked."
+    },
+    {
+      "event_id": "evt_0254",
+      "minute": 62,
+      "expressive": "Levi Colwill wins a tackle to halt the immediate threat.",
+      "simplified": "Levi Colwill completed a successful tackle."
+    },
+    {
+      "event_id": "evt_0255",
+      "minute": 62,
+      "expressive": "Ruben Dias makes a decisive interception, cutting out the pass.",
+      "simplified": "Ruben Dias made a successful interception."
+    },
+    {
+      "event_id": "evt_0256",
+      "minute": 63,
+      "expressive": "Bernardo Silva completes a successful pass, keeping City's move alive.",
+      "simplified": "Bernardo Silva completed a successful pass."
+    },
+    {
+      "event_id": "evt_0257",
+      "minute": 63,
+      "expressive": "Josko Gvardiol plays a successful pass forward.",
+      "simplified": "Josko Gvardiol completed a successful pass."
+    },
+    {
+      "event_id": "evt_0258",
+      "minute": 63,
+      "expressive": "Levi Colwill makes another successful tackle to stop the opponent's progress.",
+      "simplified": "Levi Colwill completed a successful tackle."
+    },
+    {
+      "event_id": "evt_0259",
+      "minute": 63,
+      "expressive": "Pedro Neto's pass goes astray, halting Chelsea's build-up.",
+      "simplified": "Pedro Neto's pass fails."
+    },
+    {
+      "event_id": "evt_0260",
+      "minute": 63,
+      "expressive": "Erling Haaland completes a tidy pass and keeps Manchester City's move going.",
+      "simplified": "Erling Haaland's pass is successful."
+    },
+    {
+      "event_id": "evt_0261",
+      "minute": 64,
+      "expressive": "Phil Foden plays a crisp, successful pass.",
+      "simplified": "Phil Foden completes a pass."
+    },
+    {
+      "event_id": "evt_0262",
+      "minute": 64,
+      "expressive": "Rodri shifts the ball on with a composed pass.",
+      "simplified": "Rodri's pass is successful."
+    },
+    {
+      "event_id": "evt_0263",
+      "minute": 64,
+      "expressive": "Erling Haaland plays another accurate pass to continue the attack.",
+      "simplified": "Erling Haaland completes another pass."
+    },
+    {
+      "event_id": "evt_0264",
+      "minute": 64,
+      "expressive": "Josko Gvardiol delivers a calm, successful pass.",
+      "simplified": "Josko Gvardiol's pass is successful."
+    },
+    {
+      "event_id": "evt_0265",
+      "minute": 65,
+      "expressive": "Bernardo Silva plays a neat pass to keep Manchester City's attack flowing.",
+      "simplified": "Bernardo Silva completed a successful pass."
+    },
+    {
+      "event_id": "evt_0266",
+      "minute": 65,
+      "expressive": "Moises Caicedo times a strong tackle to win the ball for Chelsea.",
+      "simplified": "Moises Caicedo made a successful tackle."
+    },
+    {
+      "event_id": "evt_0267",
+      "minute": 65,
+      "expressive": "Pedro Neto picks out a teammate with a crisp pass for Chelsea.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0268",
+      "minute": 66,
+      "expressive": "Pedro Neto's shot flies off target, missing the goal.",
+      "simplified": "Pedro Neto took a shot that went off target."
+    },
+    {
+      "event_id": "evt_0269",
+      "minute": 66,
+      "expressive": "Ruben Dias plays an accurate pass to maintain possession for Manchester City.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0270",
+      "minute": 66,
+      "expressive": "Jeremy Doku slips a quick pass to advance Manchester City's play.",
+      "simplified": "Jeremy Doku completed a successful pass."
+    },
+    {
+      "event_id": "evt_0271",
+      "minute": 66,
+      "expressive": "Jeremy Doku's pass breaks down and Manchester City lose possession.",
+      "simplified": "Jeremy Doku's pass failed and Manchester City lost possession."
+    },
+    {
+      "event_id": "evt_0272",
+      "minute": 66,
+      "expressive": "Moises Caicedo completes a neat pass to keep Chelsea moving.",
+      "simplified": "Moises Caicedo completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0273",
+      "minute": 67,
+      "expressive": "Ruben Dias commits a foul, stopping play briefly.",
+      "simplified": "Ruben Dias committed a foul, stopping play."
+    },
+    {
+      "event_id": "evt_0274",
+      "minute": 67,
+      "expressive": "Marc Cucurella plays a composed pass downfield.",
+      "simplified": "Marc Cucurella completed a successful pass."
+    },
+    {
+      "event_id": "evt_0275",
+      "minute": 67,
+      "expressive": "Cucurella follows up with another accurate pass to maintain possession.",
+      "simplified": "Marc Cucurella completed a second successful pass."
+    },
+    {
+      "event_id": "evt_0276",
+      "minute": 67,
+      "expressive": "Reece James sends a crisp pass to advance the move.",
+      "simplified": "Reece James completed a successful pass."
+    },
+    {
+      "event_id": "evt_0277",
+      "minute": 67,
+      "expressive": "Wesley Fofana threads a composed pass, keeping Chelsea moving forward.",
+      "simplified": "Wesley Fofana completed a pass for Chelsea in the 67th minute."
+    },
+    {
+      "event_id": "evt_0278",
+      "minute": 67,
+      "expressive": "Pedro Neto clips a tidy ball into space to a teammate.",
+      "simplified": "Pedro Neto completed a pass for Chelsea in the 67th minute."
+    },
+    {
+      "event_id": "evt_0279",
+      "minute": 68,
+      "expressive": "Enzo Fernandez shifts play with a smart, accurate pass.",
+      "simplified": "Enzo Fernandez completed a pass for Chelsea in the 68th minute."
+    },
+    {
+      "event_id": "evt_0280",
+      "minute": 68,
+      "expressive": "Cole Palmer lays the ball off quickly to maintain the attack.",
+      "simplified": "Cole Palmer completed a pass for Chelsea in the 68th minute."
+    },
+    {
+      "event_id": "evt_0281",
+      "minute": 68,
+      "expressive": "Nicolas Jackson releases a neat pass under pressure.",
+      "simplified": "Nicolas Jackson completed a pass for Chelsea in the 68th minute."
+    },
+    {
+      "event_id": "evt_0282",
+      "minute": 68,
+      "expressive": "Levi Colwill plays a composed pass.",
+      "simplified": "Levi Colwill completed a pass for Chelsea in the 68th minute."
+    },
+    {
+      "event_id": "evt_0283",
+      "minute": 69,
+      "expressive": "Reece James threaded a tidy pass for Chelsea, keeping their attack moving into the 69th minute.",
+      "simplified": "Reece James completed a pass for Chelsea in the 69th minute."
+    },
+    {
+      "event_id": "evt_0284",
+      "minute": 69,
+      "expressive": "Enzo Fernandez's pass went astray, interrupting Chelsea's build-up.",
+      "simplified": "Enzo Fernandez attempted a pass for Chelsea in the 69th minute that failed."
+    },
+    {
+      "event_id": "evt_0285",
+      "minute": 69,
+      "expressive": "Josko Gvardiol's pass did not reach its target for Manchester City.",
+      "simplified": "Josko Gvardiol's pass for Manchester City failed in the 69th minute."
+    },
+    {
+      "event_id": "evt_0286",
+      "minute": 70,
+      "expressive": "Cole Palmer won a corner for Chelsea, offering a set-piece chance in the 70th minute.",
+      "simplified": "Cole Palmer was awarded a corner for Chelsea in the 70th minute."
+    },
+    {
+      "event_id": "evt_0287",
+      "minute": 70,
+      "expressive": "Nicolas Jackson played a successful pass to keep Chelsea probing inside the 70th minute.",
+      "simplified": "Nicolas Jackson completed a pass for Chelsea in the 70th minute."
+    },
+    {
+      "event_id": "evt_0288",
+      "minute": 70,
+      "expressive": "Noni Madueke's pass failed, disrupting Chelsea's sequence.",
+      "simplified": "Noni Madueke attempted a pass for Chelsea in the 70th minute that failed."
+    },
+    {
+      "event_id": "evt_0289",
+      "minute": 71,
+      "expressive": "Jeremy Doku threads a neat pass, keeping City's tempo moving.",
+      "simplified": "Jeremy Doku completed a pass."
+    },
+    {
+      "event_id": "evt_0290",
+      "minute": 71,
+      "expressive": "Wesley Fofana reads the play and intercepts the ball, halting City's attack.",
+      "simplified": "Wesley Fofana made an interception."
+    },
+    {
+      "event_id": "evt_0291",
+      "minute": 71,
+      "expressive": "Fofana quickly releases the ball with a crisp pass.",
+      "simplified": "Wesley Fofana completed a pass."
+    },
+    {
+      "event_id": "evt_0292",
+      "minute": 71,
+      "expressive": "Noni Madueke finds space and plays a controlled pass forward.",
+      "simplified": "Noni Madueke completed a pass."
+    },
+    {
+      "event_id": "evt_0293",
+      "minute": 72,
+      "expressive": "Rodri is penalised for a foul, bringing play to a halt.",
+      "simplified": "Rodri committed a foul."
+    },
+    {
+      "event_id": "evt_0294",
+      "minute": 72,
+      "expressive": "Jeremy Doku is called for a foul, pausing the match briefly.",
+      "simplified": "Jeremy Doku committed a foul."
+    },
+    {
+      "event_id": "evt_0315",
+      "minute": 72,
+      "expressive": "Cole Palmer scores for Chelsea in the 72nd minute, leveling the match to 2–2.",
+      "simplified": "Cole Palmer scored for Chelsea in the 72nd minute, making it 2–2."
+    },
+    {
+      "event_id": "evt_0295",
+      "minute": 72,
+      "expressive": "Kevin De Bruyne makes an interception.",
+      "simplified": "Kevin De Bruyne intercepted the ball."
+    },
+    {
+      "event_id": "evt_0296",
+      "minute": 72,
+      "expressive": "Kevin De Bruyne completes a pass.",
+      "simplified": "Kevin De Bruyne completed a pass."
+    },
+    {
+      "event_id": "evt_0297",
+      "minute": 73,
+      "expressive": "John Stones' pass fails to find its target.",
+      "simplified": "John Stones attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0298",
+      "minute": 73,
+      "expressive": "Rodri executes a successful tackle.",
+      "simplified": "Rodri made a successful tackle."
+    },
+    {
+      "event_id": "evt_0299",
+      "minute": 73,
+      "expressive": "Levi Colwill makes a successful tackle.",
+      "simplified": "Levi Colwill completed a successful tackle."
+    },
+    {
+      "event_id": "evt_0300",
+      "minute": 73,
+      "expressive": "Noni Madueke completes a measured pass to a teammate, keeping Chelsea moving.",
+      "simplified": "Noni Madueke completed a pass."
+    },
+    {
+      "event_id": "evt_0301",
+      "minute": 74,
+      "expressive": "Moises Caicedo plays a neat short pass to retain possession for his side.",
+      "simplified": "Moises Caicedo completed a pass."
+    },
+    {
+      "event_id": "evt_0302",
+      "minute": 74,
+      "expressive": "Nicolas Jackson's pass fails to find a teammate and play breaks down.",
+      "simplified": "Nicolas Jackson's pass was unsuccessful."
+    },
+    {
+      "event_id": "evt_0303",
+      "minute": 74,
+      "expressive": "Bernardo Silva fires a shot that sails wide of the target.",
+      "simplified": "Bernardo Silva's shot went off target."
+    },
+    {
+      "event_id": "evt_0304",
+      "minute": 74,
+      "expressive": "Wesley Fofana delivers a simple pass out from defence.",
+      "simplified": "Wesley Fofana completed a pass."
+    },
+    {
+      "event_id": "evt_0305",
+      "minute": 74,
+      "expressive": "Rodri commits a foul, halting the move and stopping play.",
+      "simplified": "Rodri committed a foul."
+    },
+    {
+      "event_id": "evt_0306",
+      "minute": 75,
+      "expressive": "Kyle Walker makes a successful tackle, stopping Chelsea's progress.",
+      "simplified": "Kyle Walker makes a successful tackle."
+    },
+    {
+      "event_id": "evt_0307",
+      "minute": 75,
+      "expressive": "Marc Cucurella makes a successful interception, regaining possession for Chelsea.",
+      "simplified": "Marc Cucurella intercepts the ball successfully."
+    },
+    {
+      "event_id": "evt_0308",
+      "minute": 75,
+      "expressive": "Levi Colwill completes a pass to keep play moving.",
+      "simplified": "Levi Colwill completes a pass."
+    },
+    {
+      "event_id": "evt_0309",
+      "minute": 75,
+      "expressive": "Wesley Fofana completes a pass, maintaining Chelsea's possession.",
+      "simplified": "Wesley Fofana completes a pass."
+    },
+    {
+      "event_id": "evt_0310",
+      "minute": 75,
+      "expressive": "Reece James' pass fails to reach its target.",
+      "simplified": "Reece James' pass is unsuccessful."
+    },
+    {
+      "event_id": "evt_0311",
+      "minute": 76,
+      "expressive": "Bernardo Silva delivers a successful pass to keep Manchester City's play moving.",
+      "simplified": "Bernardo Silva completes a pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0312",
+      "minute": 76,
+      "expressive": "Josko Gvardiol plays a tidy, successful pass in the 76th minute, helping Manchester City keep possession.",
+      "simplified": "Josko Gvardiol completed a pass in the 76th minute for Manchester City."
+    },
+    {
+      "event_id": "evt_0313",
+      "minute": 76,
+      "expressive": "Ruben Dias attempts a pass in the 76th minute but it goes astray and is unsuccessful.",
+      "simplified": "Ruben Dias failed to complete a pass in the 76th minute for Manchester City."
+    },
+    {
+      "event_id": "evt_0314",
+      "minute": 76,
+      "expressive": "Nicolas Jackson exchanges a calm, successful pass for Chelsea in the 76th minute.",
+      "simplified": "Nicolas Jackson completed a pass in the 76th minute for Chelsea."
+    },
+    {
+      "event_id": "evt_0316",
+      "minute": 76,
+      "expressive": "Bernardo Silva sprays a quick successful pass shortly after the 76th minute.",
+      "simplified": "Bernardo Silva completed a pass in the 76th minute for Manchester City."
+    },
+    {
+      "event_id": "evt_0317",
+      "minute": 77,
+      "expressive": "Rodri threads a neat pass in the 77th minute, maintaining Manchester City's play.",
+      "simplified": "Rodri completed a pass in the 77th minute for Manchester City."
+    },
+    {
+      "event_id": "evt_0318",
+      "minute": 77,
+      "expressive": "Kevin De Bruyne delivers a precise pass in the 77th minute.",
+      "simplified": "Kevin De Bruyne completed a pass in the 77th minute for Manchester City."
+    },
+    {
+      "event_id": "evt_0319",
+      "minute": 77,
+      "expressive": "Ruben Dias plays a sharp, accurate pass to keep City's move flowing.",
+      "simplified": "Ruben Dias completed a successful pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0320",
+      "minute": 77,
+      "expressive": "Phil Foden lets fly, but his shot is blocked.",
+      "simplified": "Phil Foden's shot was blocked."
+    },
+    {
+      "event_id": "evt_0321",
+      "minute": 77,
+      "expressive": "Enzo Fernandez clips a neat pass to maintain Chelsea's build-up.",
+      "simplified": "Enzo Fernandez completed a successful pass for Chelsea."
+    },
+    {
+      "event_id": "evt_0322",
+      "minute": 77,
+      "expressive": "Levi Colwill misplaces a pass.",
+      "simplified": "Levi Colwill's pass was unsuccessful for Chelsea."
+    },
+    {
+      "event_id": "evt_0323",
+      "minute": 78,
+      "expressive": "Manchester City are awarded a corner.",
+      "simplified": "A corner was awarded to Manchester City."
+    },
+    {
+      "event_id": "evt_0324",
+      "minute": 78,
+      "expressive": "Rodri completes a controlled pass to steady City's play.",
+      "simplified": "Rodri completed a successful pass for Manchester City."
+    },
+    {
+      "event_id": "evt_0325",
+      "minute": 78,
+      "expressive": "Ruben Dias plays a neat, accurate pass to a teammate, keeping Manchester City's play moving.",
+      "simplified": "Ruben Dias completed a pass for Manchester City in the 78th minute."
+    },
+    {
+      "event_id": "evt_0326",
+      "minute": 78,
+      "expressive": "Kyle Walker's pass goes astray and possession is lost.",
+      "simplified": "Kyle Walker attempted a pass for Manchester City but it failed."
+    },
+    {
+      "event_id": "evt_0327",
+      "minute": 79,
+      "expressive": "Cole Palmer slips a successful pass through to a teammate for Chelsea.",
+      "simplified": "Cole Palmer completed a pass for Chelsea in the 79th minute."
+    },
+    {
+      "event_id": "evt_0328",
+      "minute": 79,
+      "expressive": "Moises Caicedo's pass misfires and the move breaks down.",
+      "simplified": "Moises Caicedo attempted a pass for Chelsea but it failed."
+    },
+    {
+      "event_id": "evt_0329",
+      "minute": 79,
+      "expressive": "Cole Palmer commits a foul and play is stopped.",
+      "simplified": "Cole Palmer committed a foul for Chelsea in the 79th minute."
+    },
+    {
+      "event_id": "evt_0330",
+      "minute": 79,
+      "expressive": "Kyle Walker completes a tidy pass to a teammate for Manchester City.",
+      "simplified": "Kyle Walker completed a pass for Manchester City in the 79th minute."
+    },
+    {
+      "event_id": "evt_0331",
+      "minute": 80,
+      "expressive": "Walker plays a neat, efficient pass down the right, keeping play moving.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0332",
+      "minute": 80,
+      "expressive": "Ruben Dias delivers a crisp pass into midfield.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0333",
+      "minute": 80,
+      "expressive": "John Stones threads a short pass to retain possession.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0334",
+      "minute": 80,
+      "expressive": "Walker swings another tidy pass along the touchline.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0335",
+      "minute": 80,
+      "expressive": "Levi Colwill makes a successful tackle.",
+      "simplified": "Levi Colwill executed a successful tackle."
+    },
+    {
+      "event_id": "evt_0336",
+      "minute": 81,
+      "expressive": "Wesley Fofana's pass goes astray and fails to connect.",
+      "simplified": "Wesley Fofana attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0337",
+      "minute": 81,
+      "expressive": "Ruben Dias threads a neat pass to keep Manchester City's move alive.",
+      "simplified": "Ruben Dias completed a successful pass."
+    },
+    {
+      "event_id": "evt_0338",
+      "minute": 81,
+      "expressive": "Enzo Fernandez wins the ball with a tidy tackle.",
+      "simplified": "Enzo Fernandez made a successful tackle."
+    },
+    {
+      "event_id": "evt_0339",
+      "minute": 82,
+      "expressive": "Nicolas Jackson picks out a teammate with a crisp pass.",
+      "simplified": "Nicolas Jackson completed a successful pass."
+    },
+    {
+      "event_id": "evt_0340",
+      "minute": 82,
+      "expressive": "Noni Madueke's pass failed to find a teammate.",
+      "simplified": "Noni Madueke attempted a pass that failed."
+    },
+    {
+      "event_id": "evt_0341",
+      "minute": 82,
+      "expressive": "Bernardo Silva plays a precise pass to maintain Manchester City's possession.",
+      "simplified": "Bernardo Silva completed a successful pass."
+    },
+    {
+      "event_id": "evt_0342",
+      "minute": 83,
+      "expressive": "Levi Colwill makes a well-timed tackle to win the ball back.",
+      "simplified": "Levi Colwill made a successful tackle."
+    },
+    {
+      "event_id": "evt_0343",
+      "minute": 83,
+      "expressive": "Pedro Neto slides a neat pass through midfield, keeping Chelsea's move alive.",
+      "simplified": "Pedro Neto completed a pass for Chelsea in the 83rd minute."
+    },
+    {
+      "event_id": "evt_0344",
+      "minute": 83,
+      "expressive": "Noni Madueke plays a crisp pass to a teammate as Chelsea retain possession.",
+      "simplified": "Noni Madueke completed a pass for Chelsea in the 83rd minute."
+    },
+    {
+      "event_id": "evt_0345",
+      "minute": 83,
+      "expressive": "Kevin De Bruyne is penalised for a foul, stopping play in the 83rd minute.",
+      "simplified": "Kevin De Bruyne committed a foul for Manchester City in the 83rd minute."
+    },
+    {
+      "event_id": "evt_0346",
+      "minute": 83,
+      "expressive": "Kyle Walker is adjudged to have fouled an opponent, halting the action.",
+      "simplified": "Kyle Walker committed a foul for Manchester City in the 83rd minute."
+    },
+    {
+      "event_id": "evt_0347",
+      "minute": 84,
+      "expressive": "Cole Palmer's pass attempt fails and the move breaks down.",
+      "simplified": "Cole Palmer's pass attempt for Chelsea failed in the 84th minute."
+    },
+    {
+      "event_id": "evt_0349",
+      "minute": 84,
+      "expressive": "Enzo Fernandez plays a successful pass to sustain Chelsea's pressure.",
+      "simplified": "Enzo Fernandez completed a pass for Chelsea in the 84th minute."
+    },
+    {
+      "event_id": "evt_0350",
+      "minute": 85,
+      "expressive": "Rodri makes a clean interception and secures possession for Manchester City.",
+      "simplified": "Rodri made a successful interception."
+    },
+    {
+      "event_id": "evt_0351",
+      "minute": 85,
+      "expressive": "John Stones delivers a neat pass to keep play moving for City.",
+      "simplified": "John Stones completed a successful pass."
+    },
+    {
+      "event_id": "evt_0352",
+      "minute": 85,
+      "expressive": "Kevin De Bruyne attempted a pass but it failed to find its target.",
+      "simplified": "Kevin De Bruyne's pass was unsuccessful."
+    },
+    {
+      "event_id": "evt_0353",
+      "minute": 85,
+      "expressive": "Pedro Neto plays a crisp pass to maintain Chelsea's possession.",
+      "simplified": "Pedro Neto completed a successful pass."
+    },
+    {
+      "event_id": "evt_0354",
+      "minute": 86,
+      "expressive": "Cole Palmer sends through a precise pass, pushing Chelsea forward.",
+      "simplified": "Cole Palmer completed a successful pass."
+    },
+    {
+      "event_id": "evt_0355",
+      "minute": 86,
+      "expressive": "Wesley Fofana calmly moves the ball on with a short pass.",
+      "simplified": "Wesley Fofana completed a successful pass."
+    },
+    {
+      "event_id": "evt_0356",
+      "minute": 86,
+      "expressive": "Enzo Fernandez delivers a tidy, successful pass.",
+      "simplified": "Enzo Fernandez completed a pass."
+    },
+    {
+      "event_id": "evt_0357",
+      "minute": 86,
+      "expressive": "Nicolas Jackson wins a corner for Chelsea.",
+      "simplified": "Nicolas Jackson was awarded a corner kick."
+    },
+    {
+      "event_id": "evt_0348",
+      "minute": 86,
+      "expressive": "Erling Haaland scores, putting Manchester City ahead 2–3.",
+      "simplified": "Erling Haaland scored, making the score 2–3."
+    },
+    {
+      "event_id": "evt_0358",
+      "minute": 86,
+      "expressive": "Bernardo Silva makes a successful tackle.",
+      "simplified": "Bernardo Silva completed a tackle."
+    },
+    {
+      "event_id": "evt_0359",
+      "minute": 86,
+      "expressive": "Moises Caicedo commits a foul.",
+      "simplified": "Moises Caicedo committed a foul."
+    },
+    {
+      "event_id": "evt_0360",
+      "minute": 87,
+      "expressive": "Phil Foden completes a successful pass.",
+      "simplified": "Phil Foden completed a pass."
+    },
+    {
+      "event_id": "evt_0361",
+      "minute": 87,
+      "expressive": "Rodri sprays a calm pass across midfield, keeping City's momentum ticking.",
+      "simplified": "Rodri completes a pass in the 87th minute."
+    },
+    {
+      "event_id": "evt_0362",
+      "minute": 87,
+      "expressive": "Bernardo Silva threads a neat pass, helping Manchester City press forward.",
+      "simplified": "Bernardo Silva completes a pass in the 87th minute."
+    },
+    {
+      "event_id": "evt_0363",
+      "minute": 87,
+      "expressive": "Kyle Walker's pass goes astray, breaking City's brief string of possession.",
+      "simplified": "Kyle Walker's pass is unsuccessful in the 87th minute."
+    },
+    {
+      "event_id": "evt_0364",
+      "minute": 87,
+      "expressive": "Cole Palmer's pass doesn't reach its target.",
+      "simplified": "Cole Palmer's pass is unsuccessful in the 87th minute."
+    },
+    {
+      "event_id": "evt_0365",
+      "minute": 87,
+      "expressive": "Walker recovers swiftly and lays a successful pass to a teammate.",
+      "simplified": "Kyle Walker completes a pass in the 87th minute."
+    },
+    {
+      "event_id": "evt_0366",
+      "minute": 88,
+      "expressive": "Rodri attempts a pass that fails to connect, halting the move.",
+      "simplified": "Rodri's pass is unsuccessful in the 88th minute."
+    },
+    {
+      "event_id": "evt_0367",
+      "minute": 88,
+      "expressive": "Enzo Fernandez overcooks a pass in the 88th minute, Chelsea lose possession.",
+      "simplified": "Enzo Fernandez's pass failed in the 88th minute and Chelsea lost possession."
+    },
+    {
+      "event_id": "evt_0368",
+      "minute": 88,
+      "expressive": "Rodri finds a teammate with a measured pass to keep Manchester City's move flowing.",
+      "simplified": "Rodri completed a pass for Manchester City in the 88th minute."
+    },
+    {
+      "event_id": "evt_0369",
+      "minute": 89,
+      "expressive": "Ruben Dias' pass goes astray in the 89th, breaking Manchester City's attack.",
+      "simplified": "Ruben Dias attempted a pass in the 89th minute but it failed."
+    },
+    {
+      "event_id": "evt_0370",
+      "minute": 89,
+      "expressive": "Moises Caicedo's pass misfires shortly after, conceding possession to the opposition.",
+      "simplified": "Moises Caicedo's pass failed in the 89th minute and Chelsea lost the ball."
+    },
+    {
+      "event_id": "evt_0371",
+      "minute": 89,
+      "expressive": "Phil Foden threads a neat pass to keep City's rhythm alive late on.",
+      "simplified": "Phil Foden completed a pass for Manchester City in the 89th minute."
+    },
+    {
+      "event_id": "evt_0372",
+      "minute": 89,
+      "expressive": "Bernardo Silva's pass finds a teammate.",
+      "simplified": "Bernardo Silva completed a pass for Manchester City in the 89th minute."
+    },
+    {
+      "event_id": "evt_0373",
+      "minute": 90,
+      "expressive": "Noni Madueke commits a foul in the 90th minute, halting play as Chelsea trail 2–3.",
+      "simplified": "Noni Madueke committed a foul in the 90th minute."
+    },
+    {
+      "event_id": "evt_0374",
+      "minute": 90,
+      "expressive": "Kyle Walker releases a neat, successful pass.",
+      "simplified": "Kyle Walker completed a successful pass."
+    },
+    {
+      "event_id": "evt_0375",
+      "minute": 90,
+      "expressive": "Moises Caicedo nips in with a successful interception.",
+      "simplified": "Moises Caicedo made a successful interception."
+    },
+    {
+      "event_id": "evt_0376",
+      "minute": 90,
+      "expressive": "Enzo Fernandez completes a successful pass.",
+      "simplified": "Enzo Fernandez completed a successful pass."
+    },
+    {
+      "event_id": "evt_0377",
+      "minute": 90,
+      "expressive": "Marc Cucurella completes a tidy pass.",
+      "simplified": "Marc Cucurella completed a successful pass."
+    }
+  ]
+}
