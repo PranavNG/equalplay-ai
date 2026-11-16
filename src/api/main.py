@@ -26,7 +26,7 @@ allowed_origins = [
     "http://localhost:5500",
     "http://127.0.0.1:5500",
     "https://pranavng.github.io",
-],
+]
 # Allow the React frontend to communicate with FastAPI
 app.add_middleware(
     CORSMiddleware,
