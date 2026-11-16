@@ -8,7 +8,7 @@ from src.processing.match_stats import calculate_stats
 from src.processing.key_moments import detect_key_moments, identify_winning_goal
 from src.ai.analysis_engine import generate_analysis
 from src.ai.commentary_engine import generate_match_commentary
-from fastapi import HTTPException
+import os
 
 # Resolve paths relative to the project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -20,15 +20,17 @@ app = FastAPI(
     version="0.1.0"
 )
 
+allowed_origins = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:5500",
+    "http://127.0.0.1:5500",
+    "https://pranavng.github.io",
+],
 # Allow the React frontend to communicate with FastAPI
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
-        "http://localhost:5500",
-        "http://127.0.0.1:5500",
-    ],
+    allow_origins=allowed_origins,
     allow_credentials=False,
     allow_methods=["GET"],
     allow_headers=["*"]
@@ -143,8 +145,7 @@ def get_replay(minute: int = Query(default=0, ge=0, le=90)):
 
 @app.get("/api/key-moments")
 def get_key_moments():
-    with open("data/synthetic/match_001.json", encoding="utf-8") as f:
-        events = json.load(f)
+    events = load_json("match_001.json")
 
     moments = detect_key_moments(events)
     moments = identify_winning_goal(moments)
