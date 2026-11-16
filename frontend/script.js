@@ -1,6 +1,6 @@
 // EqualPlay AI — frontend for the FastAPI replay API.
 // For local development, serve this folder on port 5500 (see README).
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = 'https://equalplay-ai-api-b7c0enagayf8c4cv.japaneast-01.azurewebsites.net';
 const $ = (id) => document.getElementById(id);
 const MAX_MINUTE = 90;
 let tickMs = 3000;
@@ -48,13 +48,13 @@ function eventDescription(event, simple = false) {
   if (type === 'shot' && event.outcome === 'goal') return simple ? `${player} scored for ${team}.` : `GOOOAL! ${player} finds the net for ${team}! What a moment in this match!`;
   if (type === 'shot') {
     if (simple) return `${player} took a shot for ${team}.`;
-    const endings = {saved:`The keeper makes the save!`, blocked:`But the effort is blocked!`, off_target:`Oh, it's off target!`};
+    const endings = { saved: `The keeper makes the save!`, blocked: `But the effort is blocked!`, off_target: `Oh, it's off target!` };
     return `${player} goes for goal for ${team}! ${endings[event.outcome] || 'The chance does not result in a goal.'}`;
   }
   if (type === 'yellow_card') return simple ? `A ${team} player received a yellow card.` : `The referee reaches for a yellow card! A booking for ${team}.`;
   if (type === 'red_card') return simple ? `A ${team} player received a red card.` : `Oh, that's a red card! ${team} are down a player!`;
   if (type === 'corner') return simple ? `${team} won a corner.` : `${team} push forward and win a corner. Can they make this count?`;
-  return `${team}: ${String(type || 'event').replaceAll('_',' ')}.`;
+  return `${team}: ${String(type || 'event').replaceAll('_', ' ')}.`;
 }
 function isImportant(event) {
   return event.event_type === 'shot' || event.event_type === 'corner' || event.event_type === 'yellow_card' || event.event_type === 'red_card';
@@ -239,7 +239,7 @@ async function loadCommentary() {
     const state = await replayResponse.json();
     commentaryEvents = commentary.highlights || [];
     keyEventIds = new Set((state.key_events || []).filter(isImportant).map(e => String(e.event_id)));
-    highlightMinutes = [...new Set((state.key_events || []).filter(isImportant).map(e => Number(e.minute)))].sort((a,b) => a-b);
+    highlightMinutes = [...new Set((state.key_events || []).filter(isImportant).map(e => Number(e.minute)))].sort((a, b) => a - b);
     commentaryReady = commentaryEvents.length > 0;
     highlightLoaded = true;
   } catch (error) {
@@ -249,7 +249,7 @@ async function loadCommentary() {
   }
 }
 function nextHighlight() {
-  return [...highlightMinutes, 45, 46, MAX_MINUTE].filter(m => m > minute).sort((a,b) => a-b)[0] ?? null;
+  return [...highlightMinutes, 45, 46, MAX_MINUTE].filter(m => m > minute).sort((a, b) => a - b)[0] ?? null;
 }
 async function scheduleNext(generation) {
   if (!playing || generation !== playbackGeneration || replayBusy) return;
@@ -488,23 +488,23 @@ summaryButton.addEventListener('click', () => { stopSummaryNarration(); narrateB
 const summaryObserver = new MutationObserver(() => {
   narrateButton.disabled = summaryButton.disabled || summaryContent.classList.contains('error') || !['Generate Again'].includes(summaryButton.textContent.trim());
 });
-summaryObserver.observe(summaryContent, {childList:true,characterData:true,subtree:true});
-summaryObserver.observe(summaryButton, {childList:true,characterData:true,subtree:true});
+summaryObserver.observe(summaryContent, { childList: true, characterData: true, subtree: true });
+summaryObserver.observe(summaryButton, { childList: true, characterData: true, subtree: true });
 
 // Persistent, keyboard-accessible accessibility preferences.
 const menuToggle = $('accessibility-toggle');
 const menu = $('accessibility-menu');
-function closeAccessibility() { menu.hidden = true; menuToggle.setAttribute('aria-expanded','false'); }
-menuToggle.addEventListener('click', () => { menu.hidden = !menu.hidden; menuToggle.setAttribute('aria-expanded',String(!menu.hidden)); });
+function closeAccessibility() { menu.hidden = true; menuToggle.setAttribute('aria-expanded', 'false'); }
+menuToggle.addEventListener('click', () => { menu.hidden = !menu.hidden; menuToggle.setAttribute('aria-expanded', String(!menu.hidden)); });
 document.addEventListener('click', event => { if (!event.target.closest('.accessibility-wrap')) closeAccessibility(); });
 document.addEventListener('keydown', event => { if (event.key === 'Escape' && !menu.hidden) { closeAccessibility(); menuToggle.focus(); } });
-function savePreferences() { try { localStorage.setItem('equalplay-prefs', JSON.stringify({mode, voice:$('voice-select').value, rate:$('voice-rate').value, speed:$('replay-speed').value})); } catch (_) {} }
-for (const id of ['voice-select','voice-rate','replay-speed']) $(id).addEventListener('change', savePreferences);
+function savePreferences() { try { localStorage.setItem('equalplay-prefs', JSON.stringify({ mode, voice: $('voice-select').value, rate: $('voice-rate').value, speed: $('replay-speed').value })); } catch (_) { } }
+for (const id of ['voice-select', 'voice-rate', 'replay-speed']) $(id).addEventListener('change', savePreferences);
 document.querySelectorAll('[data-mode]').forEach(button => button.addEventListener('click', savePreferences));
 try {
   const saved = JSON.parse(localStorage.getItem('equalplay-prefs') || '{}');
   if (saved.mode) document.querySelector(`[data-mode="${saved.mode}"]`)?.click();
-  if (saved.rate && [...$('voice-rate').options].some(o=>o.value===saved.rate)) $('voice-rate').value=saved.rate;
-  if (saved.speed && [...$('replay-speed').options].some(o=>o.value===saved.speed)) { $('replay-speed').value=saved.speed; tickMs=Number(saved.speed); }
-  if (saved.voice) { const applyVoice=()=>{ if ([...$('voice-select').options].some(o=>o.value===saved.voice)) $('voice-select').value=saved.voice; }; applyVoice(); if ('speechSynthesis' in window) speechSynthesis.addEventListener?.('voiceschanged',applyVoice); }
-} catch (_) {}
+  if (saved.rate && [...$('voice-rate').options].some(o => o.value === saved.rate)) $('voice-rate').value = saved.rate;
+  if (saved.speed && [...$('replay-speed').options].some(o => o.value === saved.speed)) { $('replay-speed').value = saved.speed; tickMs = Number(saved.speed); }
+  if (saved.voice) { const applyVoice = () => { if ([...$('voice-select').options].some(o => o.value === saved.voice)) $('voice-select').value = saved.voice; }; applyVoice(); if ('speechSynthesis' in window) speechSynthesis.addEventListener?.('voiceschanged', applyVoice); }
+} catch (_) { }
