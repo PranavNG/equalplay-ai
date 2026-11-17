@@ -47,21 +47,21 @@ The platform processes structured football match events and statistics, generate
 ## Project Architecture
 
 ```text
-Football Match Data
-        |
-        v
-Data Validation & Processing
-        |
-        v
-Match Statistics / Event Processing
-        |
+           Football Match Data
+                    |
+                    v
+        Data Validation & Processing
+                    |
+                    v
+      Match Statistics / Event Processing
+                    |
         +----------------------+
         |                      |
         v                      v
-    FastAPI API           Azure AI
+    FastAPI API             Azure AI
         |                      |
-        |                Summaries &
-        |                Commentary
+        |                  Summaries &
+        |                  Commentary
         |                      |
         +----------+-----------+
                    |
