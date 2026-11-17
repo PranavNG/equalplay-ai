@@ -4,6 +4,10 @@ EqualPlay AI is an AI-powered football match intelligence platform designed to m
 
 The platform processes structured football match events and statistics, generates AI-powered summaries and commentary, and presents the match through multiple accessibility-focused viewing modes.
 
+## Live Demo
+
+🌐 [Explore EqualPlay AI](https://pranavng.github.io/equalplay-ai/)
+
 ## Features
 
 - AI-generated match summaries using Azure AI
